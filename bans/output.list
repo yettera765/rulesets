@@ -2270,7 +2270,6 @@ DOMAIN-SUFFIX,analytics.sixt.fr
 DOMAIN-SUFFIX,analytics.sixt.it
 DOMAIN-SUFFIX,analytics.sixt.nl
 DOMAIN-SUFFIX,analytics.sixtcarsales.de
-DOMAIN-SUFFIX,analytics.slashdotmedia.com
 DOMAIN-SUFFIX,analytics.sleeknote.com
 DOMAIN-SUFFIX,analytics.snidigital.com
 DOMAIN-SUFFIX,analytics.solidbau.at
@@ -3317,8 +3316,6 @@ DOMAIN-SUFFIX,btn.onlylady.com
 DOMAIN-SUFFIX,btn.pchome.net
 DOMAIN-SUFFIX,btncdn.com
 DOMAIN-SUFFIX,btptod.aerzteblatt.de
-DOMAIN-SUFFIX,btrace.qq.com
-DOMAIN-SUFFIX,btrace.video.qq.com
 DOMAIN-SUFFIX,bts05.site
 DOMAIN-SUFFIX,btserve.com
 DOMAIN-SUFFIX,btssy.net
@@ -7777,7 +7774,6 @@ DOMAIN-SUFFIX,hlqoefai.cn
 DOMAIN-SUFFIX,hlserve.com
 DOMAIN-SUFFIX,hlstlyy.com
 DOMAIN-SUFFIX,hlygsp.modivo.ro
-DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmakpa.saksoff5th.com
 DOMAIN-SUFFIX,hmaqz.top
 DOMAIN-SUFFIX,hmbkqo.shoppingntmall.com
@@ -18766,8 +18762,6 @@ DOMAIN-SUFFIX,track.td3x.com
 DOMAIN-SUFFIX,track.tesiteca.it
 DOMAIN-SUFFIX,track.thebase.in
 DOMAIN-SUFFIX,track.thesaurus.com
-DOMAIN-SUFFIX,track.tiara.daum.net
-DOMAIN-SUFFIX,track.tiara.kakao.com
 DOMAIN-SUFFIX,track.uc.cn
 DOMAIN-SUFFIX,track.ugamezone.com
 DOMAIN-SUFFIX,track.ultimate-guitar.com
@@ -21376,8 +21370,12 @@ DOMAIN-SUFFIX,zzwflxs.com
 DOMAIN-SUFFIX,zzwpsm.cn
 DOMAIN-SUFFIX,zzxhx.com
 DOMAIN-SUFFIX,zzyonghao.com
+DOMAIN,analytics.slashdotmedia.com
+DOMAIN,btrace.qq.com
+DOMAIN,btrace.video.qq.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,geo2.adobe.com
+DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,js.users.51.la
 DOMAIN,log-hl-ipv6.snssdk.com
@@ -21392,6 +21390,8 @@ DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,track.58.com
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
+DOMAIN,track.tiara.daum.net
+DOMAIN,track.tiara.kakao.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,tracklog.58.com
 DOMAIN,wc.51.la
