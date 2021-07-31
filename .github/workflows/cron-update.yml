@@ -11,9 +11,10 @@ jobs:
     - uses: actions/checkout@v2
     - run: |
         cd ${GITHUB_WORKSPACE}
+        chmod +x ./rulesets
         mkdir -p {bans,rk}
-        ./rulesets bans
-        ./rulesets rk -r 1
+        ./rulesets -o bans
+        ./rulesets -o rk -r 1
         
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
