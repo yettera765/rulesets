@@ -37,6 +37,7 @@ function replaceRuleTypeKey(ruleTypeKey) {
     const keyTest = (item) => lowered.indexOf(item) === 0
     if (keyTest("ip-cidr6")) return lowered.replace("ip-cidr6", "ip6-cidr")
     if (keyTest("url-regex")) return `# ${lowered}`
+    if (keyTest("process")) return `# ${lowered}`
     return lowered
 }
 
