@@ -14762,6 +14762,7 @@ payload:
   - DOMAIN-SUFFIX,hlstlyy.com
   - DOMAIN-SUFFIX,hlwlizloq.com
   - DOMAIN-SUFFIX,hlygsp.modivo.ro
+  - DOMAIN-SUFFIX,hm.baidu.com
   - DOMAIN-SUFFIX,hmakpa.saksoff5th.com
   - DOMAIN-SUFFIX,hmaqz.top
   - DOMAIN-SUFFIX,hmbkqo.shoppingntmall.com
@@ -37544,7 +37545,6 @@ payload:
   - DOMAIN,geo2.adobe.com
   - DOMAIN,goblin.hupu.com
   - DOMAIN,gorgon.youdao.com
-  - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,hui.sohu.com
   - DOMAIN,iad.g.163.com
@@ -37714,7 +37714,6 @@ payload:
   - IP-CIDR,23.244.43.212/32
   - IP-CIDR,23.89.50.180/32
   - IP-CIDR,23.91.3.114/32
-  - IP-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
   - IP-CIDR,35.194.26.233/32
   - IP-CIDR,35.232.188.118/32
   - IP-CIDR,35.239.57.233/32
@@ -37743,3 +37742,4 @@ payload:
   - IP-CIDR,61.160.200.252/32
   - IP-CIDR,61.174.50.214/32
   - IP-CIDR,77.162.125.199/32
+  - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
