@@ -1,8 +1,5 @@
 name: cron update
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '52 8 * * *'
   workflow_dispatch:
