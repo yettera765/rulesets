@@ -20,9 +20,10 @@ jobs:
     - run: |
         cd ${GITHUB_WORKSPACE}
         chmod +x ./rulesets
-        mkdir -p {bans,rk}
+        mkdir -p {bans,proxy,rk}
         ./rulesets -o bans
-        ./rulesets -o rk -r 1
+        ./rulesets -g 1 -o proxy
+        ./rulesets -g 9 -o rk
         
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
