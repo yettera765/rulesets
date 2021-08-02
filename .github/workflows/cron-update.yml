@@ -15,9 +15,7 @@ jobs:
         cd ${GITHUB_WORKSPACE}
         chmod +x ./rulesets
         mkdir -p {bans,proxy,rk,mmdb}
-        ./rulesets -o bans
-        ./rulesets -g 1 -o proxy
-        ./rulesets -g 9 -o rk
+        ./rulesets
         ./mmdbBuilder -d mmdb/Country.mmdb
         
     - name: Commit changes
