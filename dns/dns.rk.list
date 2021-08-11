@@ -1,0 +1,16 @@
+DOMAIN,cloudflare-dns.com
+DOMAIN,dns.cloudflare.com
+DOMAIN,dns.google
+DOMAIN,dns.google.com
+DOMAIN,dns.adguard.com
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,91.108.12.0/27,no-resolve
+IP-CIDR,149.154.172.0/22,no-resolve
+IP-CIDR,2001:b28:f23d:f001::e/128,no-resolve
+IP-CIDR,2001:b28:f23d:f003::e/128,no-resolve
+IP-CIDR,2001:b28:f23d:f001::a/128,no-resolve
+IP-CIDR,2001:b28:f23d:f003::a/128,no-resolve
