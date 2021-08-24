@@ -240,6 +240,7 @@ payload:
   - DOMAIN-SUFFIX,globalvoices.org
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,gmodules.com
+  - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,godoc.org
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,goo.ne.jp
