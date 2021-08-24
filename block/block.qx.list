@@ -2885,6 +2885,7 @@ DOMAIN-SUFFIX,binarybusiness.de,direct
 DOMAIN-SUFFIX,bindinginflict.com,direct
 DOMAIN-SUFFIX,bindmillionairenaturalists.com,direct
 DOMAIN-SUFFIX,binetsrealing.club,direct
+DOMAIN-SUFFIX,bingads.microsoft.com,direct
 DOMAIN-SUFFIX,bingdianhuanyuan.cn,direct
 DOMAIN-SUFFIX,bingooverdosegroom.com,direct
 DOMAIN-SUFFIX,bingtonwr.top,direct
@@ -7834,6 +7835,7 @@ DOMAIN-SUFFIX,hodlers.party,direct
 DOMAIN-SUFFIX,hodling.faith,direct
 DOMAIN-SUFFIX,hoemasfat.site,direct
 DOMAIN-SUFFIX,hogyp.com,direct
+DOMAIN-SUFFIX,hoisin.coocaa.com,direct
 DOMAIN-SUFFIX,hoistchart.com,direct
 DOMAIN-SUFFIX,holdierpriv.club,direct
 DOMAIN-SUFFIX,holdspreoccupation.com,direct
@@ -18211,6 +18213,7 @@ DOMAIN,cdn.adapi.fotoable.com,direct
 DOMAIN,counter.kingsoft.com,direct
 DOMAIN,counter.ksosoft.com,direct
 DOMAIN,cwx.lianwangtech.com,direct
+DOMAIN,data-hoisin.coocaa.com,direct
 DOMAIN,data.mistat.xiaomi.com,direct
 DOMAIN,dispatcher.360in.com,direct
 DOMAIN,duclick.baidu.com,direct
@@ -18244,6 +18247,7 @@ DOMAIN,iyes.youku.com,direct
 DOMAIN,js-ad.a.yximgs.com,direct
 DOMAIN,kgmobilestat.kugou.com,direct
 DOMAIN,kgmobilestatbak.kugou.com,direct
+DOMAIN,livep.l.t002.ottcn.com,direct
 DOMAIN,log-hl-ipv6.snssdk.com,direct
 DOMAIN,log-lq.snssdk.com,direct
 DOMAIN,log-va.tiktokv.com,direct
@@ -18384,8 +18388,7 @@ IP-CIDR,221.6.4.148/32,direct
 IP-CIDR,222.186.12.235/32,direct
 IP-CIDR,222.186.61.91/32,direct
 IP-CIDR,222.186.61.95/32,direct
-IP-CIDR,222.186.61.96/32,direct
-IP-CIDR,222.186.61.97/32,direct
+IP-CIDR,222.186.61.96/31,direct
 IP-CIDR,222.73.156.235/32,direct
 IP-CIDR,23.244.43.212/32,direct
 IP-CIDR,23.89.50.180/32,direct
@@ -18393,22 +18396,8 @@ IP-CIDR,23.91.3.114/32,direct
 IP-CIDR,35.232.188.118/32,direct
 IP-CIDR,39.107.15.115/32,direct
 IP-CIDR,47.89.59.182/32,direct
-IP-CIDR,51.77.227.100/32,direct
-IP-CIDR,51.77.227.101/32,direct
-IP-CIDR,51.77.227.102/32,direct
-IP-CIDR,51.77.227.103/32,direct
-IP-CIDR,51.77.227.96/32,direct
-IP-CIDR,51.77.227.97/32,direct
-IP-CIDR,51.77.227.98/32,direct
-IP-CIDR,51.77.227.99/32,direct
-IP-CIDR,51.89.187.136/32,direct
-IP-CIDR,51.89.187.137/32,direct
-IP-CIDR,51.89.187.138/32,direct
-IP-CIDR,51.89.187.139/32,direct
-IP-CIDR,51.89.187.140/32,direct
-IP-CIDR,51.89.187.141/32,direct
-IP-CIDR,51.89.187.142/32,direct
-IP-CIDR,51.89.187.143/32,direct
+IP-CIDR,51.77.227.96/29,direct
+IP-CIDR,51.89.187.136/29,direct
 IP-CIDR,60.190.139.164/32,direct
 IP-CIDR,61.160.200.223/32,direct
 IP-CIDR,61.160.200.242/32,direct

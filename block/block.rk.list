@@ -2885,6 +2885,7 @@ DOMAIN-SUFFIX,binarybusiness.de
 DOMAIN-SUFFIX,bindinginflict.com
 DOMAIN-SUFFIX,bindmillionairenaturalists.com
 DOMAIN-SUFFIX,binetsrealing.club
+DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
 DOMAIN-SUFFIX,bingooverdosegroom.com
 DOMAIN-SUFFIX,bingtonwr.top
@@ -7834,6 +7835,7 @@ DOMAIN-SUFFIX,hodlers.party
 DOMAIN-SUFFIX,hodling.faith
 DOMAIN-SUFFIX,hoemasfat.site
 DOMAIN-SUFFIX,hogyp.com
+DOMAIN-SUFFIX,hoisin.coocaa.com
 DOMAIN-SUFFIX,hoistchart.com
 DOMAIN-SUFFIX,holdierpriv.club
 DOMAIN-SUFFIX,holdspreoccupation.com
@@ -18211,6 +18213,7 @@ DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,counter.kingsoft.com
 DOMAIN,counter.ksosoft.com
 DOMAIN,cwx.lianwangtech.com
+DOMAIN,data-hoisin.coocaa.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,dispatcher.360in.com
 DOMAIN,duclick.baidu.com
@@ -18244,6 +18247,7 @@ DOMAIN,iyes.youku.com
 DOMAIN,js-ad.a.yximgs.com
 DOMAIN,kgmobilestat.kugou.com
 DOMAIN,kgmobilestatbak.kugou.com
+DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,log-hl-ipv6.snssdk.com
 DOMAIN,log-lq.snssdk.com
 DOMAIN,log-va.tiktokv.com
@@ -18384,8 +18388,7 @@ IP-CIDR,221.6.4.148/32
 IP-CIDR,222.186.12.235/32
 IP-CIDR,222.186.61.91/32
 IP-CIDR,222.186.61.95/32
-IP-CIDR,222.186.61.96/32
-IP-CIDR,222.186.61.97/32
+IP-CIDR,222.186.61.96/31
 IP-CIDR,222.73.156.235/32
 IP-CIDR,23.244.43.212/32
 IP-CIDR,23.89.50.180/32
@@ -18393,22 +18396,8 @@ IP-CIDR,23.91.3.114/32
 IP-CIDR,35.232.188.118/32
 IP-CIDR,39.107.15.115/32
 IP-CIDR,47.89.59.182/32
-IP-CIDR,51.77.227.100/32
-IP-CIDR,51.77.227.101/32
-IP-CIDR,51.77.227.102/32
-IP-CIDR,51.77.227.103/32
-IP-CIDR,51.77.227.96/32
-IP-CIDR,51.77.227.97/32
-IP-CIDR,51.77.227.98/32
-IP-CIDR,51.77.227.99/32
-IP-CIDR,51.89.187.136/32
-IP-CIDR,51.89.187.137/32
-IP-CIDR,51.89.187.138/32
-IP-CIDR,51.89.187.139/32
-IP-CIDR,51.89.187.140/32
-IP-CIDR,51.89.187.141/32
-IP-CIDR,51.89.187.142/32
-IP-CIDR,51.89.187.143/32
+IP-CIDR,51.77.227.96/29
+IP-CIDR,51.89.187.136/29
 IP-CIDR,60.190.139.164/32
 IP-CIDR,61.160.200.223/32
 IP-CIDR,61.160.200.242/32
