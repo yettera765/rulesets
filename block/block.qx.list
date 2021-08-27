@@ -18248,12 +18248,7 @@ DOMAIN,js-ad.a.yximgs.com,direct
 DOMAIN,kgmobilestat.kugou.com,direct
 DOMAIN,kgmobilestatbak.kugou.com,direct
 DOMAIN,livep.l.t002.ottcn.com,direct
-DOMAIN,log-hl-ipv6.snssdk.com,direct
-DOMAIN,log-lq.snssdk.com,direct
-DOMAIN,log-va.tiktokv.com,direct
 DOMAIN,log.51wnl-cq.com,direct
-DOMAIN,log.byteoversea.com,direct
-DOMAIN,log.tiktokv.com,direct
 DOMAIN,log.ycapp.yiche.com,direct
 DOMAIN,logs.chelaile.net.cn,direct
 DOMAIN,mdrecv.app.cntvwb.cn,direct
@@ -18317,7 +18312,6 @@ DOMAIN,wa.gtimg.com,direct
 DOMAIN,ws.ksmobile.net,direct
 DOMAIN,wxsnsdy.wxs.qq.com,direct
 DOMAIN,wxsnsdythumb.wxs.qq.com,direct
-DOMAIN,xlog.snssdk.com,direct
 DOMAIN,yt-adp.ws.126.net,direct
 DOMAIN,zgsdk.zhugeio.com,direct
 IP-CIDR,101.227.200.11/32,direct
