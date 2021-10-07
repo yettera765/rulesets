@@ -5,12 +5,8 @@ DOMAIN,dns.google,direct
 DOMAIN,dns.google.com,direct
 IP-CIDR,1.0.0.1/32,direct
 IP-CIDR,1.1.1.1/32,direct
-IP-CIDR,149.154.172.0/22,direct
 IP-CIDR,8.8.4.4/32,direct
 IP-CIDR,8.8.8.8/32,direct
 IP-CIDR,9.9.9.9/32,direct
-IP-CIDR,91.108.12.0/27,direct
-IP6-CIDR,2001:b28:f23d:f001::a/128,direct
-IP6-CIDR,2001:b28:f23d:f001::e/128,direct
-IP6-CIDR,2001:b28:f23d:f003::a/128,direct
-IP6-CIDR,2001:b28:f23d:f003::e/128,direct
+IP-CIDR,91.108.12.0/22,direct
+IP6-CIDR,2001:b28:f23d::/48,direct
