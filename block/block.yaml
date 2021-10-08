@@ -1400,6 +1400,7 @@ payload:
   - DOMAIN-SUFFIX,ad.ccement.com
   - DOMAIN-SUFFIX,ad.cdnjm.cn
   - DOMAIN-SUFFIX,ad.clipcentric.com
+  - DOMAIN-SUFFIX,ad.cmvideo.cn
   - DOMAIN-SUFFIX,ad.edugram.com
   - DOMAIN-SUFFIX,ad.fx168api.com
   - DOMAIN-SUFFIX,ad.gmw.cn
@@ -20914,6 +20915,7 @@ payload:
   - DOMAIN,adv-ads.variflight.com
   - DOMAIN,advertise.baicizhan.com
   - DOMAIN,advertise.baicizhan.org
+  - DOMAIN,adwbs.ximalaya.com
   - DOMAIN,adx-api.hupu.com
   - DOMAIN,adx.hupu.com
   - DOMAIN,adx.yiche.com
@@ -20940,6 +20942,7 @@ payload:
   - DOMAIN,data-hoisin.coocaa.com
   - DOMAIN,data.mistat.xiaomi.com
   - DOMAIN,dispatcher.360in.com
+  - DOMAIN,dsp.toutiao.com
   - DOMAIN,duclick.baidu.com
   - DOMAIN,emma-414870e223.huodonghezi.com
   - DOMAIN,etl.xlmc.sandai.net
@@ -20948,6 +20951,12 @@ payload:
   - DOMAIN,g3.letv.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,geo2.adobe.com
+  - DOMAIN,ggc.cmvideo.cn
+  - DOMAIN,ggic03.miguvideo.com
+  - DOMAIN,ggmk.miguvideo.com
+  - DOMAIN,ggv.cmvideo.cn
+  - DOMAIN,ggx.cmvideo.cn
+  - DOMAIN,ggx03.miguvideo.com
   - DOMAIN,goblin.hupu.com
   - DOMAIN,gorgon.youdao.com
   - DOMAIN,hm.baidu.com

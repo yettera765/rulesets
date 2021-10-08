@@ -1399,6 +1399,7 @@ DOMAIN-SUFFIX,ad.byfuh.com,direct
 DOMAIN-SUFFIX,ad.ccement.com,direct
 DOMAIN-SUFFIX,ad.cdnjm.cn,direct
 DOMAIN-SUFFIX,ad.clipcentric.com,direct
+DOMAIN-SUFFIX,ad.cmvideo.cn,direct
 DOMAIN-SUFFIX,ad.edugram.com,direct
 DOMAIN-SUFFIX,ad.fx168api.com,direct
 DOMAIN-SUFFIX,ad.gmw.cn,direct
@@ -20913,6 +20914,7 @@ DOMAIN,adv-adlog.variflight.com,direct
 DOMAIN,adv-ads.variflight.com,direct
 DOMAIN,advertise.baicizhan.com,direct
 DOMAIN,advertise.baicizhan.org,direct
+DOMAIN,adwbs.ximalaya.com,direct
 DOMAIN,adx-api.hupu.com,direct
 DOMAIN,adx.hupu.com,direct
 DOMAIN,adx.yiche.com,direct
@@ -20939,6 +20941,7 @@ DOMAIN,cwx.lianwangtech.com,direct
 DOMAIN,data-hoisin.coocaa.com,direct
 DOMAIN,data.mistat.xiaomi.com,direct
 DOMAIN,dispatcher.360in.com,direct
+DOMAIN,dsp.toutiao.com,direct
 DOMAIN,duclick.baidu.com,direct
 DOMAIN,emma-414870e223.huodonghezi.com,direct
 DOMAIN,etl.xlmc.sandai.net,direct
@@ -20947,6 +20950,12 @@ DOMAIN,g.koowo.com,direct
 DOMAIN,g3.letv.com,direct
 DOMAIN,galaxy.bjcathay.com,direct
 DOMAIN,geo2.adobe.com,direct
+DOMAIN,ggc.cmvideo.cn,direct
+DOMAIN,ggic03.miguvideo.com,direct
+DOMAIN,ggmk.miguvideo.com,direct
+DOMAIN,ggv.cmvideo.cn,direct
+DOMAIN,ggx.cmvideo.cn,direct
+DOMAIN,ggx03.miguvideo.com,direct
 DOMAIN,goblin.hupu.com,direct
 DOMAIN,gorgon.youdao.com,direct
 DOMAIN,hm.baidu.com,direct

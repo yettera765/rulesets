@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,abema.tv,direct
 DOMAIN-SUFFIX,advertisercommunity.com,direct
 DOMAIN-SUFFIX,aex.com,direct
 DOMAIN-SUFFIX,aicoin.com,direct
+DOMAIN-SUFFIX,aimoon.com,direct
 DOMAIN-SUFFIX,aiv-cdn.net,direct
 DOMAIN-SUFFIX,aiv-delivery.net,direct
 DOMAIN-SUFFIX,aka.ms,direct
@@ -574,6 +575,7 @@ DOMAIN-SUFFIX,tineye.com,direct
 DOMAIN-SUFFIX,tiny.cc,direct
 DOMAIN-SUFFIX,tinyurl.com,direct
 DOMAIN-SUFFIX,torproject.org,direct
+DOMAIN-SUFFIX,tradingview.com,direct
 DOMAIN-SUFFIX,ttvnw.net,direct
 DOMAIN-SUFFIX,tumblr.com,direct
 DOMAIN-SUFFIX,turbobit.net,direct
@@ -684,6 +686,7 @@ DOMAIN,cbsservice.aws.syncbak.com,direct
 DOMAIN,cc.tvbs.com.tw,direct
 DOMAIN,cdn.registerdisney.go.com,direct
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,direct
+DOMAIN,clubhouse.pubnubapi.com,direct
 DOMAIN,crl3.digicert.com,direct
 DOMAIN,crl4.digicert.com,direct
 DOMAIN,d151l6v8er5bdm.cloudfront.net,direct

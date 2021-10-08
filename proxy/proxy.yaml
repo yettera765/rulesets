@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,advertisercommunity.com
   - DOMAIN-SUFFIX,aex.com
   - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,aimoon.com
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,aka.ms
@@ -575,6 +576,7 @@ payload:
   - DOMAIN-SUFFIX,tiny.cc
   - DOMAIN-SUFFIX,tinyurl.com
   - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,tumblr.com
   - DOMAIN-SUFFIX,turbobit.net
@@ -685,6 +687,7 @@ payload:
   - DOMAIN,cc.tvbs.com.tw
   - DOMAIN,cdn.registerdisney.go.com
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+  - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,crl3.digicert.com
   - DOMAIN,crl4.digicert.com
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
@@ -1112,6 +1115,7 @@ payload:
   - IP-CIDR,208.75.76.0/22
   - IP-CIDR,210.201.32.11/32
   - IP-CIDR,210.201.32.8/32
+  - IP-CIDR,210.71.227.200/32
   - IP-CIDR,210.71.227.202/32
   - IP-CIDR,23.160.0.0/24
   - IP-CIDR,23.211.15.99/32
