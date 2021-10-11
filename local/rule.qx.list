@@ -28,12 +28,5 @@ ip6-cidr, fe80::/10, direct
 # Router managed 路由器管理域名
 host, router.asus.com, direct
 host-suffix, hiwifi.com, direct
-host-suffix, leike.cc, direct
 host-suffix, miwifi.com, direct
-host-suffix, my.router, direct
-host-suffix, p.to, direct
-host-suffix, peiluyou.com, direct
-host-suffix, phicomm.me, direct
-host-suffix, routerlogin.com, direct
-host-suffix, tendawifi.com, direct
-host-suffix, zte.home, direct
+host-suffix, dscloud.me, direct
