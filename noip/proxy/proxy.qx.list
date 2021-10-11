@@ -130,6 +130,8 @@ DOMAIN-SUFFIX,cloudcone.com.cn,direct
 DOMAIN-SUFFIX,clubhouseapi.com,direct
 DOMAIN-SUFFIX,clyp.it,direct
 DOMAIN-SUFFIX,cna.com.tw,direct
+DOMAIN-SUFFIX,coingecko.com,direct
+DOMAIN-SUFFIX,coinmarketcap.com,direct
 DOMAIN-SUFFIX,comparitech.com,direct
 DOMAIN-SUFFIX,conoha.jp,direct
 DOMAIN-SUFFIX,creativelab5.com,direct
@@ -464,6 +466,7 @@ DOMAIN-SUFFIX,pixiv.org,direct
 DOMAIN-SUFFIX,player.fm,direct
 DOMAIN-SUFFIX,plurk.com,direct
 DOMAIN-SUFFIX,po18.tw,direct
+DOMAIN-SUFFIX,poloniex.com,direct
 DOMAIN-SUFFIX,polymer-project.org,direct
 DOMAIN-SUFFIX,pornhub.com,direct
 DOMAIN-SUFFIX,pornhubpremium.com,direct
