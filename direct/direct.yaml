@@ -1080,6 +1080,11 @@ payload:
   - DOMAIN-SUFFIX,biji.com
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,bilicdn1.com
+  - DOMAIN-SUFFIX,bilicdn2.com
+  - DOMAIN-SUFFIX,bilicdn3.com
+  - DOMAIN-SUFFIX,bilicdn4.com
+  - DOMAIN-SUFFIX,bilicdn5.com
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,biligo.com
@@ -7078,7 +7083,6 @@ payload:
   - IP-CIDR,103.192.96.0/20
   - IP-CIDR,103.193.120.0/22
   - IP-CIDR,103.193.140.0/22
-  - IP-CIDR,103.193.144.0/22
   - IP-CIDR,103.193.160.0/22
   - IP-CIDR,103.193.188.0/22
   - IP-CIDR,103.193.192.0/22
@@ -11892,7 +11896,7 @@ payload:
   - IP-CIDR,45.125.12.0/22
   - IP-CIDR,45.125.136.0/22
   - IP-CIDR,45.125.16.0/22
-  - IP-CIDR,45.125.24.0/21
+  - IP-CIDR,45.125.24.0/22
   - IP-CIDR,45.125.32.0/22
   - IP-CIDR,45.125.44.0/22
   - IP-CIDR,45.125.52.0/22
