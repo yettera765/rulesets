@@ -796,6 +796,7 @@ DOMAIN-SUFFIX,aliyundrive.com,direct
 DOMAIN-SUFFIX,aliyunpds.com,direct
 DOMAIN-SUFFIX,allcp.net,direct
 DOMAIN-SUFFIX,alllget.com,direct
+DOMAIN-SUFFIX,alloyteam.com,direct
 DOMAIN-SUFFIX,allyes.com,direct
 DOMAIN-SUFFIX,amap.com,direct
 DOMAIN-SUFFIX,amapauto.com,direct
@@ -2759,6 +2760,7 @@ DOMAIN-SUFFIX,imgo.tv,direct
 DOMAIN-SUFFIX,imiaobige.com,direct
 DOMAIN-SUFFIX,imooc.com,direct
 DOMAIN-SUFFIX,imqq.com,direct
+DOMAIN-SUFFIX,imweb.io,direct
 DOMAIN-SUFFIX,in.th,direct
 DOMAIN-SUFFIX,indienova.com,direct
 DOMAIN-SUFFIX,infinitynewtab.com,direct
@@ -2833,6 +2835,7 @@ DOMAIN-SUFFIX,iuban.com,direct
 DOMAIN-SUFFIX,iuhtg8.com,direct
 DOMAIN-SUFFIX,iusersurvey.com,direct
 DOMAIN-SUFFIX,iuynfg.com,direct
+DOMAIN-SUFFIX,ivweb.io,direct
 DOMAIN-SUFFIX,iwebchoice.com,direct
 DOMAIN-SUFFIX,iwuyou189.com,direct
 DOMAIN-SUFFIX,ixdzs.com,direct
@@ -6637,7 +6640,6 @@ IP-CIDR,103.118.173.0/24,direct
 IP-CIDR,103.118.19.0/24,direct
 IP-CIDR,103.118.192.0/19,direct
 IP-CIDR,103.118.240.0/20,direct
-IP-CIDR,103.118.36.0/22,direct
 IP-CIDR,103.118.52.0/22,direct
 IP-CIDR,103.118.56.0/21,direct
 IP-CIDR,103.118.64.0/21,direct
@@ -8134,7 +8136,6 @@ IP-CIDR,103.7.216.0/21,direct
 IP-CIDR,103.7.28.0/22,direct
 IP-CIDR,103.7.4.0/22,direct
 IP-CIDR,103.70.148.0/22,direct
-IP-CIDR,103.70.184.0/22,direct
 IP-CIDR,103.70.220.0/22,direct
 IP-CIDR,103.70.224.0/22,direct
 IP-CIDR,103.70.236.0/22,direct
@@ -8433,7 +8434,6 @@ IP-CIDR,103.97.144.0/21,direct
 IP-CIDR,103.97.16.0/20,direct
 IP-CIDR,103.97.188.0/22,direct
 IP-CIDR,103.97.192.0/22,direct
-IP-CIDR,103.97.224.0/22,direct
 IP-CIDR,103.97.228.0/23,direct
 IP-CIDR,103.97.32.0/21,direct
 IP-CIDR,103.97.40.0/22,direct
@@ -9590,7 +9590,7 @@ IP-CIDR,182.238.0.0/16,direct
 IP-CIDR,182.239.0.0/19,direct
 IP-CIDR,182.240.0.0/13,direct
 IP-CIDR,182.254.0.0/16,direct
-IP-CIDR,182.255.32.0/21,direct
+IP-CIDR,182.255.32.0/22,direct
 IP-CIDR,182.255.60.0/22,direct
 IP-CIDR,182.32.0.0/12,direct
 IP-CIDR,182.48.96.0/19,direct
