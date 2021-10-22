@@ -257,6 +257,7 @@ payload:
   - DOMAIN-SUFFIX,gumroad.com
   - DOMAIN-SUFFIX,gv.com
   - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,gwtproject.org
   - DOMAIN-SUFFIX,happyon.jp
