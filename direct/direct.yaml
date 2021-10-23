@@ -3724,6 +3724,8 @@ payload:
   - DOMAIN-SUFFIX,mqxs8.com
   - DOMAIN-SUFFIX,mrw.so
   - DOMAIN-SUFFIX,mscbsc.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,msstatic.com
   - DOMAIN-SUFFIX,mting.info
@@ -4791,6 +4793,7 @@ payload:
   - DOMAIN-SUFFIX,sxyj.net
   - DOMAIN-SUFFIX,symcd.com
   - DOMAIN-SUFFIX,synacast.com
+  - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,sys321.com
   - DOMAIN-SUFFIX,syscan360.com
   - DOMAIN-SUFFIX,syscan360.net

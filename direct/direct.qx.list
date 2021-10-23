@@ -3723,6 +3723,8 @@ DOMAIN-SUFFIX,mqqurl.com,direct
 DOMAIN-SUFFIX,mqxs8.com,direct
 DOMAIN-SUFFIX,mrw.so,direct
 DOMAIN-SUFFIX,mscbsc.com,direct
+DOMAIN-SUFFIX,msftconnecttest.com,direct
+DOMAIN-SUFFIX,msftncsi.com,direct
 DOMAIN-SUFFIX,msg.vg,direct
 DOMAIN-SUFFIX,msstatic.com,direct
 DOMAIN-SUFFIX,mting.info,direct
@@ -4790,6 +4792,7 @@ DOMAIN-SUFFIX,sxyckjr.com,direct
 DOMAIN-SUFFIX,sxyj.net,direct
 DOMAIN-SUFFIX,symcd.com,direct
 DOMAIN-SUFFIX,synacast.com,direct
+DOMAIN-SUFFIX,synology.com,direct
 DOMAIN-SUFFIX,sys321.com,direct
 DOMAIN-SUFFIX,syscan360.com,direct
 DOMAIN-SUFFIX,syscan360.net,direct
