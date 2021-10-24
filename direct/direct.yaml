@@ -4545,6 +4545,7 @@ payload:
   - DOMAIN-SUFFIX,shouda8.com
   - DOMAIN-SUFFIX,shoujihuifu.com
   - DOMAIN-SUFFIX,shoujikanshu.cc
+  - DOMAIN-SUFFIX,shouqianba.com
   - DOMAIN-SUFFIX,shouyou.com
   - DOMAIN-SUFFIX,shouyoubus.com
   - DOMAIN-SUFFIX,showshell.com
@@ -8134,7 +8135,6 @@ payload:
   - IP-CIDR,103.69.132.0/22
   - IP-CIDR,103.69.152.0/22
   - IP-CIDR,103.69.16.0/22
-  - IP-CIDR,103.69.212.0/22
   - IP-CIDR,103.7.140.0/22
   - IP-CIDR,103.7.212.0/22
   - IP-CIDR,103.7.216.0/21
