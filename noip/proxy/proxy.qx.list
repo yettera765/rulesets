@@ -83,11 +83,15 @@ DOMAIN-SUFFIX,biggo.com.tw,direct
 DOMAIN-SUFFIX,biliintl.com,direct
 DOMAIN-SUFFIX,binance.cc,direct
 DOMAIN-SUFFIX,binance.com,direct
+DOMAIN-SUFFIX,binance.us,direct
 DOMAIN-SUFFIX,bing.com,direct
 DOMAIN-SUFFIX,bit.ly,direct
 DOMAIN-SUFFIX,bitcointalk.org,direct
 DOMAIN-SUFFIX,bitfinex.com,direct
+DOMAIN-SUFFIX,bithumb.com,direct
 DOMAIN-SUFFIX,bitmex.com,direct
+DOMAIN-SUFFIX,bitstamp.net,direct
+DOMAIN-SUFFIX,bittrex.com,direct
 DOMAIN-SUFFIX,blogger.com,direct
 DOMAIN-SUFFIX,bloglovin.com,direct
 DOMAIN-SUFFIX,bloomberg.cn,direct
@@ -102,6 +106,7 @@ DOMAIN-SUFFIX,brave.com,direct
 DOMAIN-SUFFIX,businessinsider.com,direct
 DOMAIN-SUFFIX,buzzfeed.com,direct
 DOMAIN-SUFFIX,bwh1.net,direct
+DOMAIN-SUFFIX,bybit.com,direct
 DOMAIN-SUFFIX,byteoversea.com,direct
 DOMAIN-SUFFIX,c4assets.com,direct
 DOMAIN-SUFFIX,capitalg.com,direct
@@ -130,8 +135,11 @@ DOMAIN-SUFFIX,cloudcone.com.cn,direct
 DOMAIN-SUFFIX,clubhouseapi.com,direct
 DOMAIN-SUFFIX,clyp.it,direct
 DOMAIN-SUFFIX,cna.com.tw,direct
+DOMAIN-SUFFIX,coinbase.com,direct
+DOMAIN-SUFFIX,coincheck.com,direct
 DOMAIN-SUFFIX,coingecko.com,direct
 DOMAIN-SUFFIX,coinmarketcap.com,direct
+DOMAIN-SUFFIX,coinone.co.kr,direct
 DOMAIN-SUFFIX,comparitech.com,direct
 DOMAIN-SUFFIX,conoha.jp,direct
 DOMAIN-SUFFIX,creativelab5.com,direct
@@ -229,8 +237,10 @@ DOMAIN-SUFFIX,friday.tw,direct
 DOMAIN-SUFFIX,ft.com,direct
 DOMAIN-SUFFIX,ftchinese.com,direct
 DOMAIN-SUFFIX,ftimg.net,direct
+DOMAIN-SUFFIX,ftx.com,direct
 DOMAIN-SUFFIX,gamer.com.tw,direct
 DOMAIN-SUFFIX,gate.io,direct
+DOMAIN-SUFFIX,gemini.com,direct
 DOMAIN-SUFFIX,genius.com,direct
 DOMAIN-SUFFIX,getlantern.org,direct
 DOMAIN-SUFFIX,getmdl.io,direct
@@ -334,6 +344,9 @@ DOMAIN-SUFFIX,knowyourmeme.com,direct
 DOMAIN-SUFFIX,kobo.com,direct
 DOMAIN-SUFFIX,kobobooks.com,direct
 DOMAIN-SUFFIX,kodingen.com,direct
+DOMAIN-SUFFIX,korbit.co.kr,direct
+DOMAIN-SUFFIX,kraken.com,direct
+DOMAIN-SUFFIX,kucoin.com,direct
 DOMAIN-SUFFIX,lemonde.fr,direct
 DOMAIN-SUFFIX,lepoint.fr,direct
 DOMAIN-SUFFIX,lihkg.com,direct
@@ -342,6 +355,7 @@ DOMAIN-SUFFIX,line-apps.com,direct
 DOMAIN-SUFFIX,line-scdn.net,direct
 DOMAIN-SUFFIX,line.me,direct
 DOMAIN-SUFFIX,linetv.tw,direct
+DOMAIN-SUFFIX,liquid.com,direct
 DOMAIN-SUFFIX,listennotes.com,direct
 DOMAIN-SUFFIX,litv.tv,direct
 DOMAIN-SUFFIX,livestream.com,direct

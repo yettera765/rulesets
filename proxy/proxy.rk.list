@@ -83,11 +83,15 @@ DOMAIN-SUFFIX,biggo.com.tw
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,bloomberg.cn
@@ -102,6 +106,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,buzzfeed.com
 DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,capitalg.com
@@ -130,8 +135,11 @@ DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coinone.co.kr
 DOMAIN-SUFFIX,comparitech.com
 DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,creativelab5.com
@@ -229,8 +237,10 @@ DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
+DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmdl.io
@@ -334,6 +344,9 @@ DOMAIN-SUFFIX,knowyourmeme.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,kodingen.com
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,lemonde.fr
 DOMAIN-SUFFIX,lepoint.fr
 DOMAIN-SUFFIX,lihkg.com
@@ -342,6 +355,7 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,livestream.com
