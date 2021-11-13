@@ -753,6 +753,7 @@ DOMAIN,players.brightcove.net,direct
 DOMAIN,s3-ap-northeast-1.amazonaws.com,direct
 DOMAIN,s3-ap-southeast-1.amazonaws.com,direct
 DOMAIN,s3-ap-southeast-2.amazonaws.com,direct
+DOMAIN,tv.applemusic.com,direct
 DOMAIN,upos-bstar-mirrorakam.akamaized.net,direct
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net,direct
 DOMAIN,us.weibo.com,direct
