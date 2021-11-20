@@ -3258,6 +3258,7 @@ DOMAIN-SUFFIX,jiuzhilan.com,direct
 DOMAIN-SUFFIX,jiyunhudong.com,direct
 DOMAIN-SUFFIX,jiyunhudong.net,direct
 DOMAIN-SUFFIX,jj20.com,direct
+DOMAIN-SUFFIX,jjwxc.com,direct
 DOMAIN-SUFFIX,jjwxc.net,direct
 DOMAIN-SUFFIX,jjwxc.org,direct
 DOMAIN-SUFFIX,jjxs.org,direct
@@ -12713,7 +12714,7 @@ IP-CIDR,67.198.174.0/24,direct
 IP-CIDR,67.198.177.0/24,direct
 IP-CIDR,67.198.179.0/24,direct
 IP-CIDR,67.198.184.0/23,direct
-IP-CIDR,67.198.188.0/23,direct
+IP-CIDR,67.198.189.0/24,direct
 IP-CIDR,67.198.192.0/23,direct
 IP-CIDR,67.198.195.0/24,direct
 IP-CIDR,67.198.199.0/24,direct
@@ -12721,6 +12722,7 @@ IP-CIDR,67.198.201.0/24,direct
 IP-CIDR,67.198.207.0/24,direct
 IP-CIDR,67.198.208.0/24,direct
 IP-CIDR,67.198.221.0/24,direct
+IP-CIDR,67.198.222.0/24,direct
 IP-CIDR,67.198.235.0/24,direct
 IP-CIDR,67.198.239.0/24,direct
 IP-CIDR,67.198.244.0/24,direct
