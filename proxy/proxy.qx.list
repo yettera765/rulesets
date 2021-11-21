@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,apple-cloudkit.com,direct
 DOMAIN-SUFFIX,apple.co,direct
 DOMAIN-SUFFIX,apple.com,direct
 DOMAIN-SUFFIX,apple.com.cn,direct
+DOMAIN-SUFFIX,apple.news,direct
 DOMAIN-SUFFIX,appspot.com,direct
 DOMAIN-SUFFIX,appsto.re,direct
 DOMAIN-SUFFIX,appstore.com,direct
@@ -689,6 +690,7 @@ DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,direct
 DOMAIN,a248.e.akamai.net,direct
 DOMAIN,a771.dscq.akamai.net,direct
 DOMAIN,apm-misaka.biliapi.net,direct
+DOMAIN,apple.comscoreresearch.com,direct
 DOMAIN,assets1.xboxlive.com,direct
 DOMAIN,assets2.xboxlive.com,direct
 DOMAIN,atv-ps.amazon.com,direct
