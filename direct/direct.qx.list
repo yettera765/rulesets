@@ -853,6 +853,7 @@ DOMAIN-SUFFIX,ahd.so,direct
 DOMAIN-SUFFIX,ahjk34.com,direct
 DOMAIN-SUFFIX,aianno.com,direct
 DOMAIN-SUFFIX,aibookba.com,direct
+DOMAIN-SUFFIX,aibreeno.com,direct
 DOMAIN-SUFFIX,aicccloud.com,direct
 DOMAIN-SUFFIX,aicdn.com,direct
 DOMAIN-SUFFIX,aicdn.work,direct
@@ -1106,6 +1107,9 @@ DOMAIN-SUFFIX,aliyunrtc.com,direct
 DOMAIN-SUFFIX,aliyunvpc.com,direct
 DOMAIN-SUFFIX,aliyunwaf.com,direct
 DOMAIN-SUFFIX,alizhaopin.com,direct
+DOMAIN-SUFFIX,allawnfs.com,direct
+DOMAIN-SUFFIX,allawno.com,direct
+DOMAIN-SUFFIX,allawntech.com,direct
 DOMAIN-SUFFIX,allcp.net,direct
 DOMAIN-SUFFIX,allinbots.com,direct
 DOMAIN-SUFFIX,alllget.com,direct
@@ -1121,6 +1125,7 @@ DOMAIN-SUFFIX,amplifi.com,direct
 DOMAIN-SUFFIX,amxsw.com,direct
 DOMAIN-SUFFIX,amzqazc.com,direct
 DOMAIN-SUFFIX,anav.com,direct
+DOMAIN-SUFFIX,andes.tech,direct
 DOMAIN-SUFFIX,andfx.net,direct
 DOMAIN-SUFFIX,androidga.com,direct
 DOMAIN-SUFFIX,anfensi.com,direct
@@ -2567,6 +2572,7 @@ DOMAIN-SUFFIX,faceu.mobi,direct
 DOMAIN-SUFFIX,faceu.net,direct
 DOMAIN-SUFFIX,fallenark.com,direct
 DOMAIN-SUFFIX,faloo.com,direct
+DOMAIN-SUFFIX,familyincloud.com,direct
 DOMAIN-SUFFIX,famulei.com,direct
 DOMAIN-SUFFIX,fanfanxs.com,direct
 DOMAIN-SUFFIX,fang.com,direct
@@ -3358,6 +3364,7 @@ DOMAIN-SUFFIX,heweather.net,direct
 DOMAIN-SUFFIX,hexun.com,direct
 DOMAIN-SUFFIX,heycan.com,direct
 DOMAIN-SUFFIX,heytap.com,direct
+DOMAIN-SUFFIX,heytapcloud.com,direct
 DOMAIN-SUFFIX,heytapcs.com,direct
 DOMAIN-SUFFIX,heytapdownload.com,direct
 DOMAIN-SUFFIX,heytapimage.com,direct
@@ -3564,6 +3571,7 @@ DOMAIN-SUFFIX,ibkstore.com,direct
 DOMAIN-SUFFIX,ibm.com,direct
 DOMAIN-SUFFIX,ibmcampus.com,direct
 DOMAIN-SUFFIX,ibookstar.com,direct
+DOMAIN-SUFFIX,ibreeno.com,direct
 DOMAIN-SUFFIX,ibuk.org,direct
 DOMAIN-SUFFIX,ica-alliance.org,direct
 DOMAIN-SUFFIX,icaidao.com,direct
@@ -5014,6 +5022,7 @@ DOMAIN-SUFFIX,ol-img.com,direct
 DOMAIN-SUFFIX,olatop.com,direct
 DOMAIN-SUFFIX,olatop.net,direct
 DOMAIN-SUFFIX,oldtimescc.cc,direct
+DOMAIN-SUFFIX,omeet.cc,direct
 DOMAIN-SUFFIX,omgaixm.com,direct
 DOMAIN-SUFFIX,oncdp.com,direct
 DOMAIN-SUFFIX,oneapm.com,direct
@@ -5048,6 +5057,7 @@ DOMAIN-SUFFIX,openrasp.info,direct
 DOMAIN-SUFFIX,openrasp.net,direct
 DOMAIN-SUFFIX,openrasp.org,direct
 DOMAIN-SUFFIX,opfed.com,direct
+DOMAIN-SUFFIX,oplustrust.com,direct
 DOMAIN-SUFFIX,oppo.com,direct
 DOMAIN-SUFFIX,oppo.mobi,direct
 DOMAIN-SUFFIX,oppodigital.com,direct
@@ -5061,6 +5071,7 @@ DOMAIN-SUFFIX,optaim.com,direct
 DOMAIN-SUFFIX,opuzswk5tbt25.com,direct
 DOMAIN-SUFFIX,oracle.com,direct
 DOMAIN-SUFFIX,oray.com,direct
+DOMAIN-SUFFIX,ortc.cc,direct
 DOMAIN-SUFFIX,orvaegao.com,direct
 DOMAIN-SUFFIX,orzoupri.com,direct
 DOMAIN-SUFFIX,os-lb.com,direct
@@ -6643,6 +6654,7 @@ DOMAIN-SUFFIX,vancl.com,direct
 DOMAIN-SUFFIX,vanclimg.com,direct
 DOMAIN-SUFFIX,vaptcha.com,direct
 DOMAIN-SUFFIX,vaptcha.net,direct
+DOMAIN-SUFFIX,vayol.com,direct
 DOMAIN-SUFFIX,vbbobo.com,direct
 DOMAIN-SUFFIX,vbmnmy.com,direct
 DOMAIN-SUFFIX,vcb-s.com,direct
@@ -7086,6 +7098,7 @@ DOMAIN-SUFFIX,xiaobai.com,direct
 DOMAIN-SUFFIX,xiaobaixitong.com,direct
 DOMAIN-SUFFIX,xiaobaobianli.com,direct
 DOMAIN-SUFFIX,xiaobaobianli.net,direct
+DOMAIN-SUFFIX,xiaobool.com,direct
 DOMAIN-SUFFIX,xiaodaijl.com,direct
 DOMAIN-SUFFIX,xiaodutv.com,direct
 DOMAIN-SUFFIX,xiaog.xyz,direct
@@ -7685,6 +7698,7 @@ DOMAIN-SUFFIX,ze-wx.com,direct
 DOMAIN-SUFFIX,zealer.com,direct
 DOMAIN-SUFFIX,zebraenglish.biz,direct
 DOMAIN-SUFFIX,zebraenglish.com,direct
+DOMAIN-SUFFIX,zeku.com,direct
 DOMAIN-SUFFIX,zenmen.com,direct
 DOMAIN-SUFFIX,zgjm.org,direct
 DOMAIN-SUFFIX,zgjsks.com,direct
@@ -10141,7 +10155,6 @@ IP-CIDR,106.80.0.0/12,direct
 IP-CIDR,107.176.0.0/15,direct
 IP-CIDR,107.6.231.0/24,direct
 IP-CIDR,107.6.240.0/24,direct
-IP-CIDR,109.197.200.0/22,direct
 IP-CIDR,109.239.140.0/24,direct
 IP-CIDR,109.244.0.0/16,direct
 IP-CIDR,109.71.4.0/24,direct
@@ -10821,7 +10834,6 @@ IP-CIDR,125.96.0.0/15,direct
 IP-CIDR,125.98.0.0/16,direct
 IP-CIDR,128.1.62.200/31,direct
 IP-CIDR,128.108.0.0/16,direct
-IP-CIDR,128.75.237.0/24,direct
 IP-CIDR,129.204.0.0/16,direct
 IP-CIDR,129.211.0.0/16,direct
 IP-CIDR,129.223.254.0/24,direct
@@ -11301,8 +11313,6 @@ IP-CIDR,193.200.222.160/28,direct
 IP-CIDR,194.138.136.0/24,direct
 IP-CIDR,194.138.202.0/23,direct
 IP-CIDR,194.138.245.0/24,direct
-IP-CIDR,194.186.221.0/24,direct
-IP-CIDR,194.186.78.0/24,direct
 IP-CIDR,198.11.128.0/18,direct
 IP-CIDR,198.175.100.0/22,direct
 IP-CIDR,198.208.17.0/24,direct
@@ -12812,11 +12822,6 @@ IP-CIDR,212.129.128.0/17,direct
 IP-CIDR,212.64.0.0/17,direct
 IP-CIDR,213.199.169.0/24,direct
 IP-CIDR,213.255.231.0/24,direct
-IP-CIDR,217.118.66.0/24,direct
-IP-CIDR,217.118.68.0/22,direct
-IP-CIDR,217.118.72.0/22,direct
-IP-CIDR,217.118.76.0/23,direct
-IP-CIDR,217.118.88.0/23,direct
 IP-CIDR,218.0.0.0/11,direct
 IP-CIDR,218.100.128.0/17,direct
 IP-CIDR,218.100.88.0/21,direct
@@ -12957,8 +12962,6 @@ IP-CIDR,27.98.208.0/20,direct
 IP-CIDR,27.98.224.0/19,direct
 IP-CIDR,27.99.128.0/17,direct
 IP-CIDR,3.5.214.0/23,direct
-IP-CIDR,31.13.146.0/23,direct
-IP-CIDR,31.13.148.0/22,direct
 IP-CIDR,36.0.0.0/22,direct
 IP-CIDR,36.0.128.0/17,direct
 IP-CIDR,36.0.16.0/20,direct
@@ -12994,8 +12997,6 @@ IP-CIDR,36.69.16.0/20,direct
 IP-CIDR,36.69.32.0/19,direct
 IP-CIDR,36.69.64.0/18,direct
 IP-CIDR,36.96.0.0/11,direct
-IP-CIDR,37.9.240.0/22,direct
-IP-CIDR,37.9.247.0/24,direct
 IP-CIDR,39.0.0.0/24,direct
 IP-CIDR,39.0.128.0/17,direct
 IP-CIDR,39.0.16.0/20,direct
@@ -13660,9 +13661,7 @@ IP-CIDR,45.43.32.234/32,direct
 IP-CIDR,45.65.16.0/20,direct
 IP-CIDR,45.87.53.0/24,direct
 IP-CIDR,45.87.54.0/24,direct
-IP-CIDR,46.16.96.0/21,direct
 IP-CIDR,46.248.24.0/23,direct
-IP-CIDR,46.250.52.0/22,direct
 IP-CIDR,47.235.0.0/16,direct
 IP-CIDR,47.236.0.0/14,direct
 IP-CIDR,47.240.0.0/14,direct
@@ -13838,15 +13837,7 @@ IP-CIDR,8.208.0.0/12,direct
 IP-CIDR,81.173.16.0/21,direct
 IP-CIDR,81.68.0.0/14,direct
 IP-CIDR,82.156.0.0/15,direct
-IP-CIDR,83.220.225.0/24,direct
-IP-CIDR,83.220.226.0/24,direct
-IP-CIDR,83.220.232.0/22,direct
-IP-CIDR,83.220.240.0/20,direct
-IP-CIDR,85.115.236.0/22,direct
-IP-CIDR,85.115.246.0/24,direct
-IP-CIDR,85.115.252.0/22,direct
 IP-CIDR,87.254.207.0/24,direct
-IP-CIDR,89.113.0.0/20,direct
 IP-CIDR,91.234.36.0/24,direct
 IP-CIDR,93.183.14.0/24,direct
 IP-CIDR,93.183.18.0/24,direct
