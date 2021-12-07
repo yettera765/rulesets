@@ -53,7 +53,6 @@ payload:
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,appsto.re
@@ -96,7 +95,6 @@ payload:
   - DOMAIN-SUFFIX,bittrex.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloglovin.com
-  - DOMAIN-SUFFIX,bloomberg.cn
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,blubrry.com
   - DOMAIN-SUFFIX,book.com.tw
@@ -133,7 +131,6 @@ payload:
   - DOMAIN-SUFFIX,ck101.com
   - DOMAIN-SUFFIX,clarionproject.org
   - DOMAIN-SUFFIX,cloudcone.com
-  - DOMAIN-SUFFIX,cloudcone.com.cn
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,clyp.it
   - DOMAIN-SUFFIX,cna.com.tw
@@ -304,7 +301,6 @@ payload:
   - DOMAIN-SUFFIX,icij.org
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icoco.com
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imgur.com
