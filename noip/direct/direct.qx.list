@@ -2058,6 +2058,7 @@ DOMAIN-SUFFIX,csci.hk,direct
 DOMAIN-SUFFIX,csdn.com,direct
 DOMAIN-SUFFIX,csdn.net,direct
 DOMAIN-SUFFIX,csg99.com,direct
+DOMAIN-SUFFIX,csjplatform.com,direct
 DOMAIN-SUFFIX,csslcloud.net,direct
 DOMAIN-SUFFIX,csto.com,direct
 DOMAIN-SUFFIX,cstxt.com,direct
@@ -6715,6 +6716,8 @@ DOMAIN-SUFFIX,vmylan.com,direct
 DOMAIN-SUFFIX,vobao.com,direct
 DOMAIN-SUFFIX,voddlb.com,direct
 DOMAIN-SUFFIX,vodtw.com,direct
+DOMAIN-SUFFIX,volccdn.com,direct
+DOMAIN-SUFFIX,volcdem.com,direct
 DOMAIN-SUFFIX,volleychina.org,direct
 DOMAIN-SUFFIX,vooedit.com,direct
 DOMAIN-SUFFIX,voovlive.com,direct
