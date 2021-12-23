@@ -225,6 +225,7 @@ payload:
   - DOMAIN-SUFFIX,nytimg.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,medibang.com
   - DOMAIN-SUFFIX,nanyang.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,disneystreaming.com
@@ -298,6 +299,7 @@ payload:
   - DOMAIN-SUFFIX,udn.com
   - DOMAIN-SUFFIX,kodingen.com
   - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,logmein.com
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,kucoin.com
@@ -490,7 +492,6 @@ payload:
   - DOMAIN-SUFFIX,advertisercommunity.com
   - DOMAIN-SUFFIX,qz.com
   - DOMAIN-SUFFIX,bloomberg.cn
-  - DOMAIN-SUFFIX,cloudcone.com.cn
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,discoveryplus.in
   - DOMAIN-SUFFIX,vine.co
