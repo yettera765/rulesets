@@ -278,6 +278,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,jumei.com
   - DOMAIN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,pdfwifi.com
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,xiaojukeji.com
   - DOMAIN-SUFFIX,ganji.com
@@ -375,7 +376,6 @@ payload:
   - DOMAIN-SUFFIX,qiniudn.com
   - DOMAIN-SUFFIX,yuewen.com
   - DOMAIN-SUFFIX,360in.com
-  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,zhaopin.com
   - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,iesdouyin.com
@@ -4597,7 +4597,6 @@ payload:
   - IP-CIDR,203.56.201.0/24
   - IP-CIDR,116.196.201.0/24
   - IP-CIDR,23.207.201.0/24
-  - IP-CIDR,67.198.201.0/24
   - IP-CIDR,103.209.201.0/24
   - IP-CIDR,1.10.11.0/24
   - IP-CIDR,202.41.11.0/24
