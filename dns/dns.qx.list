@@ -1,7 +1,0 @@
-DOMAIN,cloudflare-dns.com,direct
-DOMAIN,dns.adguard.com,direct
-DOMAIN,dns.cloudflare.com,direct
-DOMAIN,dns.google,direct
-DOMAIN,dns.google.com,direct
-IP-CIDR,91.108.12.0/22,direct
-IP6-CIDR,2001:b28:f23d::/48,direct
