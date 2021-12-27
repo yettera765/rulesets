@@ -502,6 +502,7 @@ payload:
   - DOMAIN-SUFFIX,swasc.kaufland.md
   - DOMAIN-SUFFIX,eiasia.ltd
   - DOMAIN-SUFFIX,qianb.ltd
+  - DOMAIN-SUFFIX,szzd.ltd
   - DOMAIN-SUFFIX,caiwuwang.ltd
   - DOMAIN-SUFFIX,qiaohong.ltd
   - DOMAIN-SUFFIX,tsai.ltd
@@ -10869,11 +10870,13 @@ payload:
   - DOMAIN-SUFFIX,ssite.johnlewis.com
   - DOMAIN-SUFFIX,secure.rear9axis.com
   - DOMAIN-SUFFIX,tracking.risk.lexisnexis.com
+  - DOMAIN-SUFFIX,90158js.com
   - DOMAIN-SUFFIX,smetrics.bjs.com
   - DOMAIN-SUFFIX,sztbjs.com
   - DOMAIN-SUFFIX,daokejs.com
   - DOMAIN-SUFFIX,fxfhjs.com
   - DOMAIN-SUFFIX,b.unjs.com
+  - DOMAIN-SUFFIX,ylbb-vipjs.com
   - DOMAIN-SUFFIX,hzsrjs.com
   - DOMAIN-SUFFIX,analytics.adonisjs.com
   - DOMAIN-SUFFIX,gdyjs.com
