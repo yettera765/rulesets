@@ -1,6 +1,0 @@
-payload:
-  - DOMAIN,dns.google
-  - DOMAIN,dns.adguard.com
-  - DOMAIN,dns.google.com
-  - DOMAIN,dns.cloudflare.com
-  - DOMAIN,cloudflare-dns.com
