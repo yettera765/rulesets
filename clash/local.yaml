@@ -16,11 +16,8 @@ payload:
   - IP-CIDR,169.254.0.0/16
   - IP-CIDR,172.16.0.0/12
   - IP-CIDR,192.0.0.0/24
-  - IP-CIDR,192.88.99.0/24
   - IP-CIDR,192.168.0.0/16
   - IP-CIDR,198.18.0.0/15
-  - IP-CIDR,224.0.0.0/4
-  - IP-CIDR,240.0.0.0/4
   - IP-CIDR,255.255.255.255/32
   - IP-CIDR6,::1/128
   - IP-CIDR6,fc00::/7
@@ -28,5 +25,3 @@ payload:
   
   # Router managed 路由器管理域名
   - DOMAIN,router.asus.com
-  - DOMAIN-SUFFIX,hiwifi.com
-  - DOMAIN-SUFFIX,miwifi.com
