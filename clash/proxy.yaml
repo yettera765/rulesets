@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,esoir.be
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,bloomberg.de
   - DOMAIN-SUFFIX,spiegel.de
   - DOMAIN-SUFFIX,ndr.de
   - DOMAIN-SUFFIX,pinterest.de
@@ -81,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,zaobao.com.sg
+  - DOMAIN-SUFFIX,fb.watch
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,sina.com.hk
@@ -102,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,creativelab5.com
+  - DOMAIN-SUFFIX,f8.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,encyclopedia.com
   - DOMAIN-SUFFIX,yesasia.com
@@ -165,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,ftchinese.com
+  - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,joinclubhouse.com
   - DOMAIN-SUFFIX,synergyse.com
   - DOMAIN-SUFFIX,hootsuite.com
@@ -335,6 +339,7 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,steemit.com
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,githubusercontent.com
@@ -554,11 +559,13 @@ payload:
   - DOMAIN,crl4.digicert.com
   - DOMAIN,ocsp.digicert.com
   - DOMAIN,cacerts.digicert.com
+  - DOMAIN,disk.yandex.com
   - DOMAIN,az668014.vo.msecnd.net
   - DOMAIN,az416426.vo.msecnd.net
   - DOMAIN,a248.e.akamai.net
   - DOMAIN,a771.dscq.akamai.net
   - DOMAIN,d3c33hcgiwev3.cloudfront.net
+  - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
   - DOMAIN,cc.tvbs.com.tw
   - IP-CIDR,149.154.160.0/20
   - IP-CIDR,125.209.208.0/20
