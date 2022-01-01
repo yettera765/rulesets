@@ -121,8 +121,8 @@ payload:
   - DOMAIN-SUFFIX,livechina.com
   - DOMAIN-SUFFIX,hichina.com
   - DOMAIN-SUFFIX,mxhichina.com
+  - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,sina.com
-  - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,meitudata.com
   - DOMAIN-SUFFIX,cnbeta.com
   - DOMAIN-SUFFIX,ixigua.com
@@ -151,7 +151,6 @@ payload:
   - DOMAIN-SUFFIX,ydstatic.com
   - DOMAIN-SUFFIX,qhstatic.com
   - DOMAIN-SUFFIX,tianqistatic.com
-  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,jmstatic.com
   - DOMAIN-SUFFIX,vipstatic.com
   - DOMAIN-SUFFIX,qyerstatic.com
@@ -179,7 +178,6 @@ payload:
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,huaweicloud.com
   - DOMAIN-SUFFIX,hicloud.com
-  - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
   - DOMAIN-SUFFIX,toutiaocloud.com
   - DOMAIN-SUFFIX,qcloud.com
   - DOMAIN-SUFFIX,myqcloud.com
@@ -455,7 +453,6 @@ payload:
   - DOMAIN-SUFFIX,sohucs.com
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,vmallres.com
   - DOMAIN-SUFFIX,gcores.com
@@ -550,7 +547,6 @@ payload:
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,dfcfw.com
   - DOMAIN-SUFFIX,gifshow.com
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,lanzoux.com
   - DOMAIN-SUFFIX,snwx.com
   - DOMAIN-SUFFIX,eastday.com
@@ -582,7 +578,6 @@ payload:
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,xiumi.us
-  - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,b612.net
   - DOMAIN-SUFFIX,cn163.net
   - DOMAIN-SUFFIX,126.net
@@ -593,11 +588,8 @@ payload:
   - DOMAIN-SUFFIX,videocc.net
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,eudic.net
-  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,bytedance.net
-  - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,biligame.net
@@ -665,14 +657,21 @@ payload:
   - DOMAIN-SUFFIX,网络
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp.office365.com
+  - DOMAIN,dl.steam.clngaa.com
+  - DOMAIN,dl.steam.ksyna.com
+  - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,st.dl.pinyuncloud.com
+  - DOMAIN,wmsjsteam.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,wustat.windows.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,speedtest.macpaw.com
+  - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN,st.dl.bscstorage.net
   - IP-CIDR,221.226.128.146/32
   - IP-CIDR,172.16.102.56/32
   - IP-CIDR,139.220.243.27/32

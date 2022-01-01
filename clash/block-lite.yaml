@@ -488,7 +488,6 @@ payload:
   - DOMAIN-SUFFIX,meetrics.com
   - DOMAIN-SUFFIX,petametrics.com
   - DOMAIN-SUFFIX,coremetrics.com
-  - DOMAIN-SUFFIX,richmetrics.com
   - DOMAIN-SUFFIX,kissmetrics.com
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,medialytics.com
