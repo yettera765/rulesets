@@ -1,12 +1,33 @@
+  - PROCESS-NAME,Surge%203,DIRECT
+  - PROCESS-NAME,aria2c,DIRECT
+  - PROCESS-NAME,DownloadService,DIRECT
+  - PROCESS-NAME,naive,DIRECT
+  - PROCESS-NAME,ss-local,DIRECT
+  - PROCESS-NAME,fdm,DIRECT
+  - PROCESS-NAME,trojan,DIRECT
+  - PROCESS-NAME,Transmission,DIRECT
+  - PROCESS-NAME,trojan-go,DIRECT
+  - PROCESS-NAME,Thunder,DIRECT
+  - PROCESS-NAME,WebTorrent,DIRECT
+  - PROCESS-NAME,uTorrent,DIRECT
+  - PROCESS-NAME,qBittorrent,DIRECT
+  - PROCESS-NAME,NetTransport,DIRECT
+  - PROCESS-NAME,Folx,DIRECT
+  - PROCESS-NAME,v2ray,DIRECT
+  - PROCESS-NAME,privoxy,DIRECT
+  - DOMAIN-KEYWORD,.wscdns.com,DIRECT
   - DOMAIN-KEYWORD,alipay,DIRECT
   - DOMAIN-SUFFIX,blog.google,DIRECT
   - DOMAIN-SUFFIX,ntp.org,DIRECT
+  - DOMAIN-SUFFIX,95516.com,DIRECT
   - DOMAIN-SUFFIX,gs-loc-cn.apple.com,DIRECT
   - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
   - DOMAIN-SUFFIX,wx.qq.com,DIRECT
   - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
   - DOMAIN-SUFFIX,time.windows.com,DIRECT
+  - DOMAIN-SUFFIX,cmpassport.com,DIRECT
   - DOMAIN-SUFFIX,ntp.org.cn,DIRECT
+  - DOMAIN,tiny.one,DIRECT
   - DOMAIN,analytics.strava.com,DIRECT
   - DOMAIN,fonts.gstatic.com,DIRECT
   - DOMAIN,msg.umengcloud.com,DIRECT
@@ -34,6 +55,8 @@
   - DOMAIN,app.adjust.com,DIRECT
   - DOMAIN,bdtj.tagtic.cn,DIRECT
   - DOMAIN,pubads.g.doubleclick.net,DIRECT
+  - DOMAIN,cdn.jsdelivr.net,DIRECT
+  - DOMAIN,bit.ly,DIRECT
   - DOMAIN-KEYWORD,adsrvmedia,REJECT
   - DOMAIN-KEYWORD,omgmta,REJECT
   - DOMAIN-KEYWORD,domob,REJECT

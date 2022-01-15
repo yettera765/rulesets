@@ -1,13 +1,34 @@
 payload:
+  - PROCESS-NAME,Surge%203
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,naive
+  - PROCESS-NAME,ss-local
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,trojan
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,trojan-go
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,qBittorrent
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,v2ray
+  - PROCESS-NAME,privoxy
+  - DOMAIN-KEYWORD,.wscdns.com
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,95516.com
   - DOMAIN-SUFFIX,gs-loc-cn.apple.com
   - DOMAIN-SUFFIX,weixin.qq.com
   - DOMAIN-SUFFIX,wx.qq.com
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,time.windows.com
+  - DOMAIN-SUFFIX,cmpassport.com
   - DOMAIN-SUFFIX,ntp.org.cn
+  - DOMAIN,tiny.one
   - DOMAIN,analytics.strava.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,msg.umengcloud.com
@@ -35,3 +56,5 @@ payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,bit.ly
