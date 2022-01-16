@@ -1,5 +1,4 @@
 payload:
-  - PROCESS-NAME,Surge%203
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,naive
