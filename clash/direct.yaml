@@ -110,7 +110,6 @@ payload:
   - DOMAIN-SUFFIX,shouqianba.com
   - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,tianyancha.com
-  - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,wandoujia.com
   - DOMAIN-SUFFIX,yixia.com
   - DOMAIN-SUFFIX,kaola.com
@@ -165,7 +164,6 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN-SUFFIX,yhd.com
   - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,tencentmind.com
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,tencent-cloud.com
@@ -470,7 +468,6 @@ payload:
   - DOMAIN-SUFFIX,landiannews.com
   - DOMAIN-SUFFIX,ixdzs.com
   - DOMAIN-SUFFIX,wechat.com
-  - DOMAIN-SUFFIX,servicewechat.com
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,coolapkmarket.com
@@ -660,12 +657,12 @@ payload:
   - DOMAIN,speedtest.macpaw.com
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,ip.istatmenus.app
-  - DOMAIN,file-igamecj.akamaized.net
   - DOMAIN,st.dl.bscstorage.net
   - IP-CIDR,221.226.128.146/32
   - IP-CIDR,172.16.102.56/32
   - IP-CIDR,139.220.243.27/32
   - IP-CIDR,203.205.254.0/23
+  - IP-CIDR,203.205.238.0/23
   - IP-CIDR,109.239.140.0/24
   - IP-CIDR,182.254.116.0/24
   - IP-CIDR,185.188.32.0/28
