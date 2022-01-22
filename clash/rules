@@ -55,7 +55,6 @@
   - DOMAIN,bdtj.tagtic.cn,DIRECT
   - DOMAIN,pubads.g.doubleclick.net,DIRECT
   - DOMAIN,cdn.jsdelivr.net,DIRECT
-  - DOMAIN,bit.ly,DIRECT
   - DOMAIN-KEYWORD,adsrvmedia,REJECT
   - DOMAIN-KEYWORD,omgmta,REJECT
   - DOMAIN-KEYWORD,domob,REJECT
