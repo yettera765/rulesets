@@ -2499,7 +2499,6 @@
   - DOMAIN-SUFFIX,jianshu.io,DIRECT
   - DOMAIN-SUFFIX,zimuzu.io,DIRECT
   - DOMAIN-SUFFIX,privatehd.to,DIRECT
-  - DOMAIN-SUFFIX,rarbg.to,DIRECT
   - DOMAIN-SUFFIX,sm.ms,DIRECT
   - DOMAIN-SUFFIX,xiumi.us,DIRECT
   - DOMAIN-SUFFIX,cn163.net,DIRECT
@@ -2555,7 +2554,6 @@
   - DOMAIN-SUFFIX,xiaoka.tv,DIRECT
   - DOMAIN-SUFFIX,acg.tv,DIRECT
   - DOMAIN-SUFFIX,zhanqi.tv,DIRECT
-  - DOMAIN-SUFFIX,rrmj.tv,DIRECT
   - DOMAIN-SUFFIX,quanmin.tv,DIRECT
   - DOMAIN-SUFFIX,acfun.tv,DIRECT
   - DOMAIN-SUFFIX,animebytes.tv,DIRECT
@@ -2571,6 +2569,7 @@
   - DOMAIN,dl.steam.clngaa.com,DIRECT
   - DOMAIN,dl.steam.ksyna.com,DIRECT
   - DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+  - DOMAIN,api.steampowered.com,DIRECT
   - DOMAIN,st.dl.pinyuncloud.com,DIRECT
   - DOMAIN,smtp-mail.outlook.com,DIRECT
   - DOMAIN,wmsjsteam.com,DIRECT

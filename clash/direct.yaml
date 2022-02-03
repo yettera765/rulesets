@@ -498,7 +498,6 @@ payload:
   - DOMAIN-SUFFIX,jianshu.io
   - DOMAIN-SUFFIX,zimuzu.io
   - DOMAIN-SUFFIX,privatehd.to
-  - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,xiumi.us
   - DOMAIN-SUFFIX,cn163.net
@@ -554,7 +553,6 @@ payload:
   - DOMAIN-SUFFIX,xiaoka.tv
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,zhanqi.tv
-  - DOMAIN-SUFFIX,rrmj.tv
   - DOMAIN-SUFFIX,quanmin.tv
   - DOMAIN-SUFFIX,acfun.tv
   - DOMAIN-SUFFIX,animebytes.tv
@@ -570,6 +568,7 @@ payload:
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,api.steampowered.com
   - DOMAIN,st.dl.pinyuncloud.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,wmsjsteam.com
