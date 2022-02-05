@@ -241,6 +241,7 @@ payload:
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,nuomi.com
   - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,jianshuapi.com
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,tianqi.com

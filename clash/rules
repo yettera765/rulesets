@@ -2242,6 +2242,7 @@
   - DOMAIN-SUFFIX,mi.com,DIRECT
   - DOMAIN-SUFFIX,nuomi.com,DIRECT
   - DOMAIN-SUFFIX,biliapi.com,DIRECT
+  - DOMAIN-SUFFIX,toutiaoapi.com,DIRECT
   - DOMAIN-SUFFIX,jianshuapi.com,DIRECT
   - DOMAIN-SUFFIX,zmzapi.com,DIRECT
   - DOMAIN-SUFFIX,tianqi.com,DIRECT
