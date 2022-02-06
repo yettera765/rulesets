@@ -47,6 +47,8 @@ payload:
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,hd4fans.org
+  - DOMAIN-SUFFIX,hdbits.org
+  - DOMAIN-SUFFIX,comicat.org
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,redacted.ch
@@ -116,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,ksyungslb.com
   - DOMAIN-SUFFIX,51job.com
   - DOMAIN-SUFFIX,runoob.com
+  - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,8686c.com
   - DOMAIN-SUFFIX,bokecc.com
   - DOMAIN-SUFFIX,sohurdc.com
@@ -137,6 +140,7 @@ payload:
   - DOMAIN-SUFFIX,sohu-inc.com
   - DOMAIN-SUFFIX,360doc.com
   - DOMAIN-SUFFIX,hwccpc.com
+  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN-SUFFIX,yhd.com
@@ -383,6 +387,7 @@ payload:
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,zealer.com
   - DOMAIN-SUFFIX,lofter.com
+  - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,jcloudcs.com
@@ -480,6 +485,7 @@ payload:
   - DOMAIN-SUFFIX,eastday.com
   - DOMAIN-SUFFIX,yeepay.com
   - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,eastmoney.com
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,th-sjy.com
@@ -499,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,jianshu.io
   - DOMAIN-SUFFIX,zimuzu.io
   - DOMAIN-SUFFIX,privatehd.to
+  - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,xiumi.us
   - DOMAIN-SUFFIX,cn163.net
@@ -517,6 +524,7 @@ payload:
   - DOMAIN-SUFFIX,pthome.net
   - DOMAIN-SUFFIX,uxengine.net
   - DOMAIN-SUFFIX,weiphone.net
+  - DOMAIN-SUFFIX,myanonamouse.net
   - DOMAIN-SUFFIX,tiexue.net
   - DOMAIN-SUFFIX,sandai.net
   - DOMAIN-SUFFIX,gandi.net
@@ -554,6 +562,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoka.tv
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,zhanqi.tv
+  - DOMAIN-SUFFIX,morethan.tv
   - DOMAIN-SUFFIX,quanmin.tv
   - DOMAIN-SUFFIX,acfun.tv
   - DOMAIN-SUFFIX,animebytes.tv
@@ -569,7 +578,6 @@ payload:
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
-  - DOMAIN,api.steampowered.com
   - DOMAIN,st.dl.pinyuncloud.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,wmsjsteam.com
@@ -578,6 +586,7 @@ payload:
   - DOMAIN,wustat.windows.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,ntservicepack.microsoft.com
+  - DOMAIN,speedtest.macpaw.com
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,st.dl.bscstorage.net

@@ -2048,6 +2048,8 @@
   - DOMAIN-SUFFIX,hdhome.org,DIRECT
   - DOMAIN-SUFFIX,aliapp.org,DIRECT
   - DOMAIN-SUFFIX,hd4fans.org,DIRECT
+  - DOMAIN-SUFFIX,hdbits.org,DIRECT
+  - DOMAIN-SUFFIX,comicat.org,DIRECT
   - DOMAIN-SUFFIX,tjupt.org,DIRECT
   - DOMAIN-SUFFIX,msg.vg,DIRECT
   - DOMAIN-SUFFIX,redacted.ch,DIRECT
@@ -2117,6 +2119,7 @@
   - DOMAIN-SUFFIX,ksyungslb.com,DIRECT
   - DOMAIN-SUFFIX,51job.com,DIRECT
   - DOMAIN-SUFFIX,runoob.com,DIRECT
+  - DOMAIN-SUFFIX,pterclub.com,DIRECT
   - DOMAIN-SUFFIX,8686c.com,DIRECT
   - DOMAIN-SUFFIX,bokecc.com,DIRECT
   - DOMAIN-SUFFIX,sohurdc.com,DIRECT
@@ -2138,6 +2141,7 @@
   - DOMAIN-SUFFIX,sohu-inc.com,DIRECT
   - DOMAIN-SUFFIX,360doc.com,DIRECT
   - DOMAIN-SUFFIX,hwccpc.com,DIRECT
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
   - DOMAIN-SUFFIX,leaguehd.com,DIRECT
   - DOMAIN-SUFFIX,zhuihd.com,DIRECT
   - DOMAIN-SUFFIX,yhd.com,DIRECT
@@ -2384,6 +2388,7 @@
   - DOMAIN-SUFFIX,weather.com,DIRECT
   - DOMAIN-SUFFIX,zealer.com,DIRECT
   - DOMAIN-SUFFIX,lofter.com,DIRECT
+  - DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
   - DOMAIN-SUFFIX,teamviewer.com,DIRECT
   - DOMAIN-SUFFIX,36kr.com,DIRECT
   - DOMAIN-SUFFIX,jcloudcs.com,DIRECT
@@ -2481,6 +2486,7 @@
   - DOMAIN-SUFFIX,eastday.com,DIRECT
   - DOMAIN-SUFFIX,yeepay.com,DIRECT
   - DOMAIN-SUFFIX,tenpay.com,DIRECT
+  - DOMAIN-SUFFIX,hddolby.com,DIRECT
   - DOMAIN-SUFFIX,eastmoney.com,DIRECT
   - DOMAIN-SUFFIX,synology.com,DIRECT
   - DOMAIN-SUFFIX,th-sjy.com,DIRECT
@@ -2500,6 +2506,7 @@
   - DOMAIN-SUFFIX,jianshu.io,DIRECT
   - DOMAIN-SUFFIX,zimuzu.io,DIRECT
   - DOMAIN-SUFFIX,privatehd.to,DIRECT
+  - DOMAIN-SUFFIX,acg.rip,DIRECT
   - DOMAIN-SUFFIX,sm.ms,DIRECT
   - DOMAIN-SUFFIX,xiumi.us,DIRECT
   - DOMAIN-SUFFIX,cn163.net,DIRECT
@@ -2518,6 +2525,7 @@
   - DOMAIN-SUFFIX,pthome.net,DIRECT
   - DOMAIN-SUFFIX,uxengine.net,DIRECT
   - DOMAIN-SUFFIX,weiphone.net,DIRECT
+  - DOMAIN-SUFFIX,myanonamouse.net,DIRECT
   - DOMAIN-SUFFIX,tiexue.net,DIRECT
   - DOMAIN-SUFFIX,sandai.net,DIRECT
   - DOMAIN-SUFFIX,gandi.net,DIRECT
@@ -2555,6 +2563,7 @@
   - DOMAIN-SUFFIX,xiaoka.tv,DIRECT
   - DOMAIN-SUFFIX,acg.tv,DIRECT
   - DOMAIN-SUFFIX,zhanqi.tv,DIRECT
+  - DOMAIN-SUFFIX,morethan.tv,DIRECT
   - DOMAIN-SUFFIX,quanmin.tv,DIRECT
   - DOMAIN-SUFFIX,acfun.tv,DIRECT
   - DOMAIN-SUFFIX,animebytes.tv,DIRECT
@@ -2570,7 +2579,6 @@
   - DOMAIN,dl.steam.clngaa.com,DIRECT
   - DOMAIN,dl.steam.ksyna.com,DIRECT
   - DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
-  - DOMAIN,api.steampowered.com,DIRECT
   - DOMAIN,st.dl.pinyuncloud.com,DIRECT
   - DOMAIN,smtp-mail.outlook.com,DIRECT
   - DOMAIN,wmsjsteam.com,DIRECT
@@ -2579,6 +2587,7 @@
   - DOMAIN,wustat.windows.com,DIRECT
   - DOMAIN,download.microsoft.com,DIRECT
   - DOMAIN,ntservicepack.microsoft.com,DIRECT
+  - DOMAIN,speedtest.macpaw.com,DIRECT
   - DOMAIN,st.dl.eccdnx.com,DIRECT
   - DOMAIN,ip.istatmenus.app,DIRECT
   - DOMAIN,st.dl.bscstorage.net,DIRECT
