@@ -53,7 +53,6 @@
   - DOMAIN,sycm.mmstat.com,DIRECT
   - DOMAIN,app.adjust.com,DIRECT
   - DOMAIN,bdtj.tagtic.cn,DIRECT
-  - DOMAIN,pubads.g.doubleclick.net,DIRECT
   - DOMAIN,cdn.jsdelivr.net,DIRECT
   - DOMAIN-KEYWORD,adsrvmedia,REJECT
   - DOMAIN-KEYWORD,omgmta,REJECT
@@ -1199,6 +1198,7 @@
   - DOMAIN-KEYWORD,.hbogoasia.,PROXY
   - DOMAIN-KEYWORD,.facebook.,PROXY
   - DOMAIN-KEYWORD,.blogspot.,PROXY
+  - DOMAIN-KEYWORD,.pinterest.,PROXY
   - DOMAIN-KEYWORD,google,PROXY
   - DOMAIN-KEYWORD,uk-live,PROXY
   - DOMAIN-KEYWORD,jooxweb-api,PROXY
@@ -1209,121 +1209,103 @@
   - DOMAIN-KEYWORD,avoddashs,PROXY
   - DOMAIN-KEYWORD,abematv.akamaized.net,PROXY
   - DOMAIN-KEYWORD,bbcfmt,PROXY
-  - DOMAIN-SUFFIX,cbc.ca,PROXY
-  - DOMAIN-SUFFIX,pinterest.ca,PROXY
   - DOMAIN-SUFFIX,binance.cc,PROXY
-  - DOMAIN-SUFFIX,on.cc,PROXY
   - DOMAIN-SUFFIX,tiny.cc,PROXY
-  - DOMAIN-SUFFIX,esoir.be,PROXY
+  - DOMAIN-SUFFIX,is.gd,PROXY
   - DOMAIN-SUFFIX,yt.be,PROXY
   - DOMAIN-SUFFIX,youtu.be,PROXY
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,PROXY
   - DOMAIN-SUFFIX,bloomberg.de,PROXY
   - DOMAIN-SUFFIX,spiegel.de,PROXY
-  - DOMAIN-SUFFIX,ndr.de,PROXY
-  - DOMAIN-SUFFIX,pinterest.de,PROXY
+  - DOMAIN-SUFFIX,welt.de,PROXY
+  - DOMAIN-SUFFIX,paste.ee,PROXY
   - DOMAIN-SUFFIX,fb.me,PROXY
   - DOMAIN-SUFFIX,line.me,PROXY
   - DOMAIN-SUFFIX,m.me,PROXY
   - DOMAIN-SUFFIX,telegram.me,PROXY
-  - DOMAIN-SUFFIX,nytcn.me,PROXY
   - DOMAIN-SUFFIX,t.me,PROXY
   - DOMAIN-SUFFIX,disconnect.me,PROXY
   - DOMAIN-SUFFIX,kktv.me,PROXY
   - DOMAIN-SUFFIX,textnow.me,PROXY
   - DOMAIN-SUFFIX,telesco.pe,PROXY
   - DOMAIN-SUFFIX,appsto.re,PROXY
-  - DOMAIN-SUFFIX,pinterest.se,PROXY
-  - DOMAIN-SUFFIX,upmedia.mg,PROXY
-  - DOMAIN-SUFFIX,telephony.goog,PROXY
-  - DOMAIN-SUFFIX,ao3.org,PROXY
+  - DOMAIN-SUFFIX,github.blog,PROXY
+  - DOMAIN-SUFFIX,goog,PROXY
   - DOMAIN-SUFFIX,wikimedia.org,PROXY
   - DOMAIN-SUFFIX,wikipedia.org,PROXY
   - DOMAIN-SUFFIX,wikimapia.org,PROXY
-  - DOMAIN-SUFFIX,newstapa.org,PROXY
+  - DOMAIN-SUFFIX,schema.org,PROXY
+  - DOMAIN-SUFFIX,wikidata.org,PROXY
   - DOMAIN-SUFFIX,themoviedb.org,PROXY
   - DOMAIN-SUFFIX,rocksdb.org,PROXY
   - DOMAIN-SUFFIX,z-lib.org,PROXY
-  - DOMAIN-SUFFIX,godoc.org,PROXY
   - DOMAIN-SUFFIX,webrtc.org,PROXY
+  - DOMAIN-SUFFIX,wikisource.org,PROXY
+  - DOMAIN-SUFFIX,wikivoyage.org,PROXY
   - DOMAIN-SUFFIX,change.org,PROXY
+  - DOMAIN-SUFFIX,pastie.org,PROXY
   - DOMAIN-SUFFIX,getoutline.org,PROXY
-  - DOMAIN-SUFFIX,greatfire.org,PROXY
   - DOMAIN-SUFFIX,wikiquote.org,PROXY
   - DOMAIN-SUFFIX,archive.org,PROXY
-  - DOMAIN-SUFFIX,hkbf.org,PROXY
   - DOMAIN-SUFFIX,golang.org,PROXY
-  - DOMAIN-SUFFIX,icij.org,PROXY
+  - DOMAIN-SUFFIX,mediawiki.org,PROXY
   - DOMAIN-SUFFIX,prism-break.org,PROXY
-  - DOMAIN-SUFFIX,teco-hk.org,PROXY
   - DOMAIN-SUFFIX,bitcointalk.org,PROXY
   - DOMAIN-SUFFIX,signal.org,PROXY
-  - DOMAIN-SUFFIX,waveprotocol.org,PROXY
-  - DOMAIN-SUFFIX,insecam.org,PROXY
+  - DOMAIN-SUFFIX,graphql.org,PROXY
   - DOMAIN-SUFFIX,telegram.org,PROXY
   - DOMAIN-SUFFIX,chromium.org,PROXY
+  - DOMAIN-SUFFIX,c-span.org,PROXY
   - DOMAIN-SUFFIX,edx-cdn.org,PROXY
-  - DOMAIN-SUFFIX,joinmastodon.org,PROXY
-  - DOMAIN-SUFFIX,hudson.org,PROXY
-  - DOMAIN-SUFFIX,getlantern.org,PROXY
+  - DOMAIN-SUFFIX,wikimediafoundation.org,PROXY
   - DOMAIN-SUFFIX,archiveofourown.org,PROXY
-  - DOMAIN-SUFFIX,teco-mo.org,PROXY
   - DOMAIN-SUFFIX,uniswap.org,PROXY
-  - DOMAIN-SUFFIX,whatbrowser.org,PROXY
   - DOMAIN-SUFFIX,pbs.org,PROXY
-  - DOMAIN-SUFFIX,globalvoices.org,PROXY
   - DOMAIN-SUFFIX,wikileaks.org,PROXY
-  - DOMAIN-SUFFIX,shadowsocks.org,PROXY
+  - DOMAIN-SUFFIX,wikibooks.org,PROXY
   - DOMAIN-SUFFIX,wikinews.org,PROXY
   - DOMAIN-SUFFIX,worldcat.org,PROXY
-  - DOMAIN-SUFFIX,polymer-project.org,PROXY
   - DOMAIN-SUFFIX,webmproject.org,PROXY
-  - DOMAIN-SUFFIX,clarionproject.org,PROXY
   - DOMAIN-SUFFIX,ampproject.org,PROXY
   - DOMAIN-SUFFIX,torproject.org,PROXY
-  - DOMAIN-SUFFIX,gwtproject.org,PROXY
   - DOMAIN-SUFFIX,you-get.org,PROXY
-  - DOMAIN-SUFFIX,nuget.org,PROXY
-  - DOMAIN-SUFFIX,nationalinterest.org,PROXY
   - DOMAIN-SUFFIX,pixiv.org,PROXY
   - DOMAIN-SUFFIX,tensorflow.org,PROXY
-  - DOMAIN-SUFFIX,rarbgprx.org,PROXY
-  - DOMAIN-SUFFIX,certificate-transparency.org,PROXY
-  - DOMAIN-SUFFIX,dmhy.org,PROXY
-  - DOMAIN-SUFFIX,v2fly.org,PROXY
+  - DOMAIN-SUFFIX,matrix.org,PROXY
+  - DOMAIN-SUFFIX,wiktionary.org,PROXY
+  - DOMAIN-SUFFIX,wikiversity.org,PROXY
+  - DOMAIN-SUFFIX,privoxy.org,PROXY
   - DOMAIN-SUFFIX,zaobao.com.sg,PROXY
+  - DOMAIN-SUFFIX,swissinfo.ch,PROXY
   - DOMAIN-SUFFIX,fb.watch,PROXY
+  - DOMAIN-SUFFIX,legra.ph,PROXY
   - DOMAIN-SUFFIX,telegra.ph,PROXY
+  - DOMAIN-SUFFIX,archive.ph,PROXY
+  - DOMAIN-SUFFIX,api.ai,PROXY
   - DOMAIN-SUFFIX,spoti.fi,PROXY
-  - DOMAIN-SUFFIX,nyaa.si,PROXY
   - DOMAIN-SUFFIX,hbogoasia.hk,PROXY
-  - DOMAIN-SUFFIX,sina.com.hk,PROXY
-  - DOMAIN-SUFFIX,roadshow.hk,PROXY
-  - DOMAIN-SUFFIX,page.link,PROXY
+  - DOMAIN-SUFFIX,rthk.hk,PROXY
   - DOMAIN-SUFFIX,yadi.sk,PROXY
   - DOMAIN-SUFFIX,bbc.co.uk,PROXY
   - DOMAIN-SUFFIX,bbci.co.uk,PROXY
   - DOMAIN-SUFFIX,discoveryplus.co.uk,PROXY
   - DOMAIN-SUFFIX,independent.co.uk,PROXY
-  - DOMAIN-SUFFIX,pinterest.co.uk,PROXY
-  - DOMAIN-SUFFIX,mil,PROXY
+  - DOMAIN-SUFFIX,moon.fm,PROXY
   - DOMAIN-SUFFIX,player.fm,PROXY
+  - DOMAIN-SUFFIX,anchor.fm,PROXY
   - DOMAIN-SUFFIX,overcast.fm,PROXY
   - DOMAIN-SUFFIX,castbox.fm,PROXY
-  - DOMAIN-SUFFIX,potato.im,PROXY
-  - DOMAIN-SUFFIX,pt.im,PROXY
+  - DOMAIN-SUFFIX,omny.fm,PROXY
   - DOMAIN-SUFFIX,netflixdnstest0.com,PROXY
   - DOMAIN-SUFFIX,gvt0.com,PROXY
-  - DOMAIN-SUFFIX,ck101.com,PROXY
-  - DOMAIN-SUFFIX,mobile01.com,PROXY
-  - DOMAIN-SUFFIX,hk01.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest1.com,PROXY
   - DOMAIN-SUFFIX,gvt1.com,PROXY
+  - DOMAIN-SUFFIX,on2.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest2.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest3.com,PROXY
   - DOMAIN-SUFFIX,gvt3.com,PROXY
   - DOMAIN-SUFFIX,channel4.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest4.com,PROXY
-  - DOMAIN-SUFFIX,creativelab5.com,PROXY
   - DOMAIN-SUFFIX,channel5.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest5.com,PROXY
   - DOMAIN-SUFFIX,netflixdnstest6.com,PROXY
@@ -1335,10 +1317,6 @@
   - DOMAIN-SUFFIX,redditmedia.com,PROXY
   - DOMAIN-SUFFIX,encyclopedia.com,PROXY
   - DOMAIN-SUFFIX,hbogoasia.com,PROXY
-  - DOMAIN-SUFFIX,yesasia.com,PROXY
-  - DOMAIN-SUFFIX,channelnewsasia.com,PROXY
-  - DOMAIN-SUFFIX,streema.com,PROXY
-  - DOMAIN-SUFFIX,nytchina.com,PROXY
   - DOMAIN-SUFFIX,pandora.com,PROXY
   - DOMAIN-SUFFIX,quora.com,PROXY
   - DOMAIN-SUFFIX,tutanota.com,PROXY
@@ -1346,6 +1324,7 @@
   - DOMAIN-SUFFIX,thetvdb.com,PROXY
   - DOMAIN-SUFFIX,fb.com,PROXY
   - DOMAIN-SUFFIX,bithumb.com,PROXY
+  - DOMAIN-SUFFIX,admob.com,PROXY
   - DOMAIN-SUFFIX,pornhub.com,PROXY
   - DOMAIN-SUFFIX,github.com,PROXY
   - DOMAIN-SUFFIX,tvb.com,PROXY
@@ -1353,93 +1332,75 @@
   - DOMAIN-SUFFIX,zb.com,PROXY
   - DOMAIN-SUFFIX,abc.com,PROXY
   - DOMAIN-SUFFIX,bbc.com,PROXY
-  - DOMAIN-SUFFIX,picacomic.com,PROXY
   - DOMAIN-SUFFIX,twitpic.com,PROXY
   - DOMAIN-SUFFIX,nowestatic.com,PROXY
-  - DOMAIN-SUFFIX,gstatic.com,PROXY
   - DOMAIN-SUFFIX,pplusstatic.com,PROXY
+  - DOMAIN-SUFFIX,redditstatic.com,PROXY
   - DOMAIN-SUFFIX,itvstatic.com,PROXY
+  - DOMAIN-SUFFIX,theatlantic.com,PROXY
   - DOMAIN-SUFFIX,getsync.com,PROXY
-  - DOMAIN-SUFFIX,gumroad.com,PROXY
   - DOMAIN-SUFFIX,wattpad.com,PROXY
   - DOMAIN-SUFFIX,scribd.com,PROXY
-  - DOMAIN-SUFFIX,buzzfeed.com,PROXY
-  - DOMAIN-SUFFIX,4shared.com,PROXY
   - DOMAIN-SUFFIX,android.com,PROXY
   - DOMAIN-SUFFIX,bamgrid.com,PROXY
   - DOMAIN-SUFFIX,liquid.com,PROXY
   - DOMAIN-SUFFIX,wikiwand.com,PROXY
-  - DOMAIN-SUFFIX,apkfind.com,PROXY
-  - DOMAIN-SUFFIX,deepmind.com,PROXY
   - DOMAIN-SUFFIX,flipboard.com,PROXY
+  - DOMAIN-SUFFIX,wireguard.com,PROXY
+  - DOMAIN-SUFFIX,bullguard.com,PROXY
   - DOMAIN-SUFFIX,discord.com,PROXY
   - DOMAIN-SUFFIX,soundcloud.com,PROXY
   - DOMAIN-SUFFIX,smartmailcloud.com,PROXY
   - DOMAIN-SUFFIX,pcloud.com,PROXY
-  - DOMAIN-SUFFIX,dlercloud.com,PROXY
-  - DOMAIN-SUFFIX,xn--90wwvt03e.com,PROXY
   - DOMAIN-SUFFIX,youtube.com,PROXY
+  - DOMAIN-SUFFIX,withyoutube.com,PROXY
   - DOMAIN-SUFFIX,myspace.com,PROXY
   - DOMAIN-SUFFIX,binance.com,PROXY
-  - DOMAIN-SUFFIX,aptoide.com,PROXY
-  - DOMAIN-SUFFIX,madewithcode.com,PROXY
   - DOMAIN-SUFFIX,apigee.com,PROXY
   - DOMAIN-SUFFIX,startpage.com,PROXY
   - DOMAIN-SUFFIX,9cache.com,PROXY
+  - DOMAIN-SUFFIX,youtube-nocookie.com,PROXY
   - DOMAIN-SUFFIX,i-cable.com,PROXY
   - DOMAIN-SUFFIX,streamable.com,PROXY
   - DOMAIN-SUFFIX,reabble.com,PROXY
-  - DOMAIN-SUFFIX,redbubble.com,PROXY
-  - DOMAIN-SUFFIX,avgle.com,PROXY
-  - DOMAIN-SUFFIX,shopeemobile.com,PROXY
   - DOMAIN-SUFFIX,smoot.apple.com,PROXY
   - DOMAIN-SUFFIX,nytstyle.com,PROXY
-  - DOMAIN-SUFFIX,knowyourmeme.com,PROXY
   - DOMAIN-SUFFIX,time.com,PROXY
   - DOMAIN-SUFFIX,chrome.com,PROXY
-  - DOMAIN-SUFFIX,fortawesome.com,PROXY
   - DOMAIN-SUFFIX,deadline.com,PROXY
   - DOMAIN-SUFFIX,widevine.com,PROXY
+  - DOMAIN-SUFFIX,tmagazine.com,PROXY
   - DOMAIN-SUFFIX,cloudcone.com,PROXY
+  - DOMAIN-SUFFIX,skype.com,PROXY
   - DOMAIN-SUFFIX,itasoftware.com,PROXY
   - DOMAIN-SUFFIX,wire.com,PROXY
-  - DOMAIN-SUFFIX,apkpure.com,PROXY
   - DOMAIN-SUFFIX,coinbase.com,PROXY
-  - DOMAIN-SUFFIX,voachinese.com,PROXY
   - DOMAIN-SUFFIX,ftchinese.com,PROXY
-  - DOMAIN-SUFFIX,parse.com,PROXY
+  - DOMAIN-SUFFIX,adsense.com,PROXY
   - DOMAIN-SUFFIX,joinclubhouse.com,PROXY
-  - DOMAIN-SUFFIX,synergyse.com,PROXY
-  - DOMAIN-SUFFIX,hootsuite.com,PROXY
   - DOMAIN-SUFFIX,brave.com,PROXY
   - DOMAIN-SUFFIX,onedrive.live.com,PROXY
   - DOMAIN-SUFFIX,nowe.com,PROXY
   - DOMAIN-SUFFIX,tineye.com,PROXY
-  - DOMAIN-SUFFIX,winudf.com,PROXY
   - DOMAIN-SUFFIX,9gag.com,PROXY
-  - DOMAIN-SUFFIX,lihkg.com,PROXY
-  - DOMAIN-SUFFIX,capitalg.com,PROXY
-  - DOMAIN-SUFFIX,pinimg.com,PROXY
   - DOMAIN-SUFFIX,ytimg.com,PROXY
   - DOMAIN-SUFFIX,nytimg.com,PROXY
   - DOMAIN-SUFFIX,twimg.com,PROXY
   - DOMAIN-SUFFIX,nflximg.com,PROXY
   - DOMAIN-SUFFIX,medibang.com,PROXY
-  - DOMAIN-SUFFIX,nanyang.com,PROXY
   - DOMAIN-SUFFIX,bing.com,PROXY
   - DOMAIN-SUFFIX,disneystreaming.com,PROXY
+  - DOMAIN-SUFFIX,youtubegaming.com,PROXY
+  - DOMAIN-SUFFIX,blogblog.com,PROXY
   - DOMAIN-SUFFIX,nytlog.com,PROXY
-  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,PROXY
   - DOMAIN-SUFFIX,bloomberg.com,PROXY
   - DOMAIN-SUFFIX,debug.com,PROXY
   - DOMAIN-SUFFIX,avg.com,PROXY
-  - DOMAIN-SUFFIX,comparitech.com,PROXY
+  - DOMAIN-SUFFIX,search.com,PROXY
   - DOMAIN-SUFFIX,tiltbrush.com,PROXY
   - DOMAIN-SUFFIX,huobi.com,PROXY
   - DOMAIN-SUFFIX,mubi.com,PROXY
-  - DOMAIN-SUFFIX,nikkei.com,PROXY
   - DOMAIN-SUFFIX,sushi.com,PROXY
-  - DOMAIN-SUFFIX,jiji.com,PROXY
   - DOMAIN-SUFFIX,gemini.com,PROXY
   - DOMAIN-SUFFIX,dazn-api.com,PROXY
   - DOMAIN-SUFFIX,disco-api.com,PROXY
@@ -1447,30 +1408,25 @@
   - DOMAIN-SUFFIX,tik-tokapi.com,PROXY
   - DOMAIN-SUFFIX,dropboxapi.com,PROXY
   - DOMAIN-SUFFIX,cbsi.com,PROXY
-  - DOMAIN-SUFFIX,evozi.com,PROXY
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
-  - DOMAIN-SUFFIX,hkej.com,PROXY
   - DOMAIN-SUFFIX,wsj.com,PROXY
+  - DOMAIN-SUFFIX,spideroak.com,PROXY
+  - DOMAIN-SUFFIX,githack.com,PROXY
   - DOMAIN-SUFFIX,substack.com,PROXY
+  - DOMAIN-SUFFIX,speakerdeck.com,PROXY
+  - DOMAIN-SUFFIX,tweetdeck.com,PROXY
   - DOMAIN-SUFFIX,coincheck.com,PROXY
-  - DOMAIN-SUFFIX,kik.com,PROXY
+  - DOMAIN-SUFFIX,shutterstock.com,PROXY
+  - DOMAIN-SUFFIX,newsweek.com,PROXY
   - DOMAIN-SUFFIX,tapatalk.com,PROXY
-  - DOMAIN-SUFFIX,paltalk.com,PROXY
-  - DOMAIN-SUFFIX,apkmonk.com,PROXY
-  - DOMAIN-SUFFIX,facebook.com,PROXY
   - DOMAIN-SUFFIX,tiktok.com,PROXY
-  - DOMAIN-SUFFIX,pureapk.com,PROXY
-  - DOMAIN-SUFFIX,plurk.com,PROXY
   - DOMAIN-SUFFIX,ask.com,PROXY
   - DOMAIN-SUFFIX,tidal.com,PROXY
-  - DOMAIN-SUFFIX,crucial.com,PROXY
-  - DOMAIN-SUFFIX,apk-dl.com,PROXY
+  - DOMAIN-SUFFIX,zyxel.com,PROXY
   - DOMAIN-SUFFIX,gmail.com,PROXY
   - DOMAIN-SUFFIX,facebookmail.com,PROXY
   - DOMAIN-SUFFIX,fbworkmail.com,PROXY
-  - DOMAIN-SUFFIX,hightail.com,PROXY
-  - DOMAIN-SUFFIX,initiummall.com,PROXY
-  - DOMAIN-SUFFIX,tinyurl.com,PROXY
+  - DOMAIN-SUFFIX,owltail.com,PROXY
   - DOMAIN-SUFFIX,biliintl.com,PROXY
   - DOMAIN-SUFFIX,earthcam.com,PROXY
   - DOMAIN-SUFFIX,livestream.com,PROXY
@@ -1479,48 +1435,43 @@
   - DOMAIN-SUFFIX,cdninstagram.com,PROXY
   - DOMAIN-SUFFIX,huluim.com,PROXY
   - DOMAIN-SUFFIX,dmm.com,PROXY
-  - DOMAIN-SUFFIX,cyberctm.com,PROXY
   - DOMAIN-SUFFIX,medium.com,PROXY
   - DOMAIN-SUFFIX,pornhubpremium.com,PROXY
   - DOMAIN-SUFFIX,theinitium.com,PROXY
+  - DOMAIN-SUFFIX,podbean.com,PROXY
   - DOMAIN-SUFFIX,theguardian.com,PROXY
-  - DOMAIN-SUFFIX,dandanzan.com,PROXY
+  - DOMAIN-SUFFIX,newstatesman.com,PROXY
   - DOMAIN-SUFFIX,sndcdn.com,PROXY
   - DOMAIN-SUFFIX,myspacecdn.com,PROXY
+  - DOMAIN-SUFFIX,licdn.com,PROXY
   - DOMAIN-SUFFIX,tiktokcdn.com,PROXY
   - DOMAIN-SUFFIX,phncdn.com,PROXY
   - DOMAIN-SUFFIX,phprcdn.com,PROXY
   - DOMAIN-SUFFIX,oculuscdn.com,PROXY
   - DOMAIN-SUFFIX,muscdn.com,PROXY
   - DOMAIN-SUFFIX,hbomaxcdn.com,PROXY
-  - DOMAIN-SUFFIX,duboxcdn.com,PROXY
   - DOMAIN-SUFFIX,dazndn.com,PROXY
-  - DOMAIN-SUFFIX,udn.com,PROXY
-  - DOMAIN-SUFFIX,kodingen.com,PROXY
   - DOMAIN-SUFFIX,kraken.com,PROXY
   - DOMAIN-SUFFIX,linkedin.com,PROXY
-  - DOMAIN-SUFFIX,logmein.com,PROXY
   - DOMAIN-SUFFIX,aicoin.com,PROXY
   - DOMAIN-SUFFIX,kucoin.com,PROXY
   - DOMAIN-SUFFIX,bloglovin.com,PROXY
   - DOMAIN-SUFFIX,dmm-extension.com,PROXY
+  - DOMAIN-SUFFIX,youtubeeducation.com,PROXY
+  - DOMAIN-SUFFIX,theconversation.com,PROXY
   - DOMAIN-SUFFIX,artstation.com,PROXY
   - DOMAIN-SUFFIX,dailymotion.com,PROXY
   - DOMAIN-SUFFIX,aimoon.com,PROXY
   - DOMAIN-SUFFIX,media-amazon.com,PROXY
-  - DOMAIN-SUFFIX,teddysun.com,PROXY
+  - DOMAIN-SUFFIX,msn.com,PROXY
   - DOMAIN-SUFFIX,wn.com,PROXY
-  - DOMAIN-SUFFIX,uptodown.com,PROXY
-  - DOMAIN-SUFFIX,archiveofourown.com,PROXY
+  - DOMAIN-SUFFIX,readyatdawn.com,PROXY
   - DOMAIN-SUFFIX,dazn.com,PROXY
   - DOMAIN-SUFFIX,indazn.com,PROXY
   - DOMAIN-SUFFIX,zaobao.com,PROXY
   - DOMAIN-SUFFIX,kakao.com,PROXY
-  - DOMAIN-SUFFIX,mingpao.com,PROXY
   - DOMAIN-SUFFIX,hbo.com,PROXY
-  - DOMAIN-SUFFIX,apkcombo.com,PROXY
   - DOMAIN-SUFFIX,kobo.com,PROXY
-  - DOMAIN-SUFFIX,icoco.com,PROXY
   - DOMAIN-SUFFIX,nytco.com,PROXY
   - DOMAIN-SUFFIX,cbsaavideo.com,PROXY
   - DOMAIN-SUFFIX,primevideo.com,PROXY
@@ -1529,7 +1480,6 @@
   - DOMAIN-SUFFIX,amazonvideo.com,PROXY
   - DOMAIN-SUFFIX,vimeo.com,PROXY
   - DOMAIN-SUFFIX,wetvinfo.com,PROXY
-  - DOMAIN-SUFFIX,dns2go.com,PROXY
   - DOMAIN-SUFFIX,duckduckgo.com,PROXY
   - DOMAIN-SUFFIX,hbogo.com,PROXY
   - DOMAIN-SUFFIX,firebaseio.com,PROXY
@@ -1537,33 +1487,29 @@
   - DOMAIN-SUFFIX,coingecko.com,PROXY
   - DOMAIN-SUFFIX,zello.com,PROXY
   - DOMAIN-SUFFIX,waymo.com,PROXY
-  - DOMAIN-SUFFIX,badoo.com,PROXY
   - DOMAIN-SUFFIX,yahoo.com,PROXY
-  - DOMAIN-SUFFIX,readmoo.com,PROXY
-  - DOMAIN-SUFFIX,potatso.com,PROXY
+  - DOMAIN-SUFFIX,coursehero.com,PROXY
   - DOMAIN-SUFFIX,istockphoto.com,PROXY
   - DOMAIN-SUFFIX,flitto.com,PROXY
   - DOMAIN-SUFFIX,coinmarketcap.com,PROXY
   - DOMAIN-SUFFIX,smartmediarep.com,PROXY
+  - DOMAIN-SUFFIX,oxfordscholarship.com,PROXY
   - DOMAIN-SUFFIX,bandcamp.com,PROXY
   - DOMAIN-SUFFIX,scmp.com,PROXY
   - DOMAIN-SUFFIX,mailchimp.com,PROXY
   - DOMAIN-SUFFIX,tdesktop.com,PROXY
   - DOMAIN-SUFFIX,discordapp.com,PROXY
   - DOMAIN-SUFFIX,whatsapp.com,PROXY
-  - DOMAIN-SUFFIX,kakaocorp.com,PROXY
   - DOMAIN-SUFFIX,iq.com,PROXY
   - DOMAIN-SUFFIX,gravatar.com,PROXY
   - DOMAIN-SUFFIX,viber.com,PROXY
-  - DOMAIN-SUFFIX,noxinfluencer.com,PROXY
   - DOMAIN-SUFFIX,inoreader.com,PROXY
-  - DOMAIN-SUFFIX,businessinsider.com,PROXY
   - DOMAIN-SUFFIX,blogger.com,PROXY
   - DOMAIN-SUFFIX,messenger.com,PROXY
   - DOMAIN-SUFFIX,proxifier.com,PROXY
-  - DOMAIN-SUFFIX,shindanmaker.com,PROXY
+  - DOMAIN-SUFFIX,newyorker.com,PROXY
+  - DOMAIN-SUFFIX,feedburner.com,PROXY
   - DOMAIN-SUFFIX,mytvsuper.com,PROXY
-  - DOMAIN-SUFFIX,xhamster.com,PROXY
   - DOMAIN-SUFFIX,twitter.com,PROXY
   - DOMAIN-SUFFIX,naver.com,PROXY
   - DOMAIN-SUFFIX,voxer.com,PROXY
@@ -1571,50 +1517,37 @@
   - DOMAIN-SUFFIX,flickr.com,PROXY
   - DOMAIN-SUFFIX,tumblr.com,PROXY
   - DOMAIN-SUFFIX,mixlr.com,PROXY
-  - DOMAIN-SUFFIX,apkmirror.com,PROXY
-  - DOMAIN-SUFFIX,ycombinator.com,PROXY
   - DOMAIN-SUFFIX,imgur.com,PROXY
-  - DOMAIN-SUFFIX,goodreads.com,PROXY
+  - DOMAIN-SUFFIX,zynamics.com,PROXY
+  - DOMAIN-SUFFIX,youtubekids.com,PROXY
+  - DOMAIN-SUFFIX,sketchappsources.com,PROXY
   - DOMAIN-SUFFIX,gmodules.com,PROXY
-  - DOMAIN-SUFFIX,ibtimes.com,PROXY
+  - DOMAIN-SUFFIX,newyorktimes.com,PROXY
   - DOMAIN-SUFFIX,straitstimes.com,PROXY
   - DOMAIN-SUFFIX,nytimes.com,PROXY
   - DOMAIN-SUFFIX,dowjones.com,PROXY
   - DOMAIN-SUFFIX,listennotes.com,PROXY
-  - DOMAIN-SUFFIX,pbxes.com,PROXY
-  - DOMAIN-SUFFIX,elpais.com,PROXY
-  - DOMAIN-SUFFIX,abebooks.com,PROXY
-  - DOMAIN-SUFFIX,kobobooks.com,PROXY
-  - DOMAIN-SUFFIX,w3schools.com,PROXY
   - DOMAIN-SUFFIX,fbaddins.com,PROXY
-  - DOMAIN-SUFFIX,mergersandinquisitions.com,PROXY
-  - DOMAIN-SUFFIX,xvideos.com,PROXY
+  - DOMAIN-SUFFIX,axios.com,PROXY
   - DOMAIN-SUFFIX,ibytedtos.com,PROXY
   - DOMAIN-SUFFIX,depositphotos.com,PROXY
   - DOMAIN-SUFFIX,line-apps.com,PROXY
   - DOMAIN-SUFFIX,reuters.com,PROXY
+  - DOMAIN-SUFFIX,foreignaffairs.com,PROXY
   - DOMAIN-SUFFIX,wordpress.com,PROXY
   - DOMAIN-SUFFIX,videopress.com,PROXY
-  - DOMAIN-SUFFIX,duyaoss.com,PROXY
   - DOMAIN-SUFFIX,c4assets.com,PROXY
-  - DOMAIN-SUFFIX,uwants.com,PROXY
-  - DOMAIN-SUFFIX,chromeexperiments.com,PROXY
   - DOMAIN-SUFFIX,genius.com,PROXY
   - DOMAIN-SUFFIX,paramountplus.com,PROXY
   - DOMAIN-SUFFIX,disneyplus.com,PROXY
   - DOMAIN-SUFFIX,discoveryplus.com,PROXY
   - DOMAIN-SUFFIX,oculus.com,PROXY
-  - DOMAIN-SUFFIX,softfamous.com,PROXY
   - DOMAIN-SUFFIX,disqus.com,PROXY
-  - DOMAIN-SUFFIX,chromestatus.com,PROXY
-  - DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
-  - DOMAIN-SUFFIX,yes-news.com,PROXY
-  - DOMAIN-SUFFIX,voanews.com,PROXY
   - DOMAIN-SUFFIX,nbcnews.com,PROXY
-  - DOMAIN-SUFFIX,cyclingnews.com,PROXY
-  - DOMAIN-SUFFIX,euronews.com,PROXY
+  - DOMAIN-SUFFIX,venturebeat.com,PROXY
+  - DOMAIN-SUFFIX,thediplomat.com,PROXY
+  - DOMAIN-SUFFIX,engadget.com,PROXY
   - DOMAIN-SUFFIX,hket.com,PROXY
-  - DOMAIN-SUFFIX,steemitwallet.com,PROXY
   - DOMAIN-SUFFIX,ft.com,PROXY
   - DOMAIN-SUFFIX,ggpht.com,PROXY
   - DOMAIN-SUFFIX,bybit.com,PROXY
@@ -1624,15 +1557,14 @@
   - DOMAIN-SUFFIX,ifixit.com,PROXY
   - DOMAIN-SUFFIX,githubusercontent.com,PROXY
   - DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
-  - DOMAIN-SUFFIX,deepdiscount.com,PROXY
-  - DOMAIN-SUFFIX,mangakakalot.com,PROXY
+  - DOMAIN-SUFFIX,techspot.com,PROXY
   - DOMAIN-SUFFIX,appspot.com,PROXY
   - DOMAIN-SUFFIX,deviantart.com,PROXY
-  - DOMAIN-SUFFIX,pinterest.com,PROXY
+  - DOMAIN-SUFFIX,redditlist.com,PROXY
   - DOMAIN-SUFFIX,economist.com,PROXY
+  - DOMAIN-SUFFIX,static-economist.com,PROXY
   - DOMAIN-SUFFIX,bandwagonhost.com,PROXY
   - DOMAIN-SUFFIX,huffpost.com,PROXY
-  - DOMAIN-SUFFIX,bangkokpost.com,PROXY
   - DOMAIN-SUFFIX,washingtonpost.com,PROXY
   - DOMAIN-SUFFIX,dssott.com,PROXY
   - DOMAIN-SUFFIX,nflxext.com,PROXY
@@ -1640,24 +1572,18 @@
   - DOMAIN-SUFFIX,viu.com,PROXY
   - DOMAIN-SUFFIX,heroku.com,PROXY
   - DOMAIN-SUFFIX,hulu.com,PROXY
-  - DOMAIN-SUFFIX,dynu.com,PROXY
-  - DOMAIN-SUFFIX,seatguru.com,PROXY
   - DOMAIN-SUFFIX,issuu.com,PROXY
-  - DOMAIN-SUFFIX,gv.com,PROXY
   - DOMAIN-SUFFIX,tiktokv.com,PROXY
-  - DOMAIN-SUFFIX,api.mgtv.com,PROXY
+  - DOMAIN-SUFFIX,androidtv.com,PROXY
   - DOMAIN-SUFFIX,itv.com,PROXY
   - DOMAIN-SUFFIX,dnitv.com,PROXY
   - DOMAIN-SUFFIX,peacocktv.com,PROXY
   - DOMAIN-SUFFIX,ocnttv.com,PROXY
-  - DOMAIN-SUFFIX,autodraw.com,PROXY
-  - DOMAIN-SUFFIX,dw.com,PROXY
-  - DOMAIN-SUFFIX,cdw.com,PROXY
   - DOMAIN-SUFFIX,tradingview.com,PROXY
+  - DOMAIN-SUFFIX,bloombergview.com,PROXY
   - DOMAIN-SUFFIX,dialogflow.com,PROXY
   - DOMAIN-SUFFIX,now.com,PROXY
   - DOMAIN-SUFFIX,hbonow.com,PROXY
-  - DOMAIN-SUFFIX,tvboxnow.com,PROXY
   - DOMAIN-SUFFIX,vzw.com,PROXY
   - DOMAIN-SUFFIX,hbomax.com,PROXY
   - DOMAIN-SUFFIX,fbsbx.com,PROXY
@@ -1669,215 +1595,149 @@
   - DOMAIN-SUFFIX,bitfinex.com,PROXY
   - DOMAIN-SUFFIX,bittrex.com,PROXY
   - DOMAIN-SUFFIX,netflix.com,PROXY
-  - DOMAIN-SUFFIX,jinx.com,PROXY
+  - DOMAIN-SUFFIX,okx.com,PROXY
   - DOMAIN-SUFFIX,box.com,PROXY
+  - DOMAIN-SUFFIX,terabox.com,PROXY
   - DOMAIN-SUFFIX,bibox.com,PROXY
   - DOMAIN-SUFFIX,kkbox.com,PROXY
   - DOMAIN-SUFFIX,dropbox.com,PROXY
-  - DOMAIN-SUFFIX,dubox.com,PROXY
   - DOMAIN-SUFFIX,joox.com,PROXY
   - DOMAIN-SUFFIX,ftx.com,PROXY
-  - DOMAIN-SUFFIX,xnxx.com,PROXY
-  - DOMAIN-SUFFIX,t66y.com,PROXY
-  - DOMAIN-SUFFIX,v2ray.com,PROXY
   - DOMAIN-SUFFIX,foreignpolicy.com,PROXY
   - DOMAIN-SUFFIX,androidify.com,PROXY
-  - DOMAIN-SUFFIX,weebly.com,PROXY
   - DOMAIN-SUFFIX,feedly.com,PROXY
-  - DOMAIN-SUFFIX,nexitally.com,PROXY
   - DOMAIN-SUFFIX,urbandictionary.com,PROXY
   - DOMAIN-SUFFIX,blubrry.com,PROXY
-  - DOMAIN-SUFFIX,hkbookcity.com,PROXY
   - DOMAIN-SUFFIX,steamcommunity.com,PROXY
   - DOMAIN-SUFFIX,advertisercommunity.com,PROXY
   - DOMAIN-SUFFIX,qz.com,PROXY
   - DOMAIN-SUFFIX,bloomberg.cn,PROXY
-  - DOMAIN-SUFFIX,radio.garden,PROXY
   - DOMAIN-SUFFIX,discoveryplus.in,PROXY
+  - DOMAIN-SUFFIX,radioline.co,PROXY
   - DOMAIN-SUFFIX,vine.co,PROXY
+  - DOMAIN-SUFFIX,g.co,PROXY
   - DOMAIN-SUFFIX,twimg.co,PROXY
-  - DOMAIN-SUFFIX,maying.co,PROXY
   - DOMAIN-SUFFIX,scdn.co,PROXY
   - DOMAIN-SUFFIX,pscdn.co,PROXY
   - DOMAIN-SUFFIX,feeder.co,PROXY
   - DOMAIN-SUFFIX,t.co,PROXY
+  - DOMAIN-SUFFIX,x.co,PROXY
   - DOMAIN-SUFFIX,dmc.nico,PROXY
-  - DOMAIN-SUFFIX,marc.info,PROXY
+  - DOMAIN-SUFFIX,archive.fo,PROXY
+  - DOMAIN-SUFFIX,mega.io,PROXY
   - DOMAIN-SUFFIX,abema.io,PROXY
   - DOMAIN-SUFFIX,hayabusa.io,PROXY
   - DOMAIN-SUFFIX,github.io,PROXY
-  - DOMAIN-SUFFIX,shattered.io,PROXY
-  - DOMAIN-SUFFIX,nofile.io,PROXY
+  - DOMAIN-SUFFIX,hackmd.io,PROXY
   - DOMAIN-SUFFIX,gate.io,PROXY
-  - DOMAIN-SUFFIX,material.io,PROXY
-  - DOMAIN-SUFFIX,getmdl.io,PROXY
   - DOMAIN-SUFFIX,etherscan.io,PROXY
-  - DOMAIN-SUFFIX,arukas.io,PROXY
   - DOMAIN-SUFFIX,kfs.io,PROXY
-  - DOMAIN-SUFFIX,ipfs.io,PROXY
-  - DOMAIN-SUFFIX,cccat.io,PROXY
   - DOMAIN-SUFFIX,zeronet.io,PROXY
-  - DOMAIN-SUFFIX,nrk.no,PROXY
-  - DOMAIN-SUFFIX,notion.so,PROXY
+  - DOMAIN-SUFFIX,git.io,PROXY
   - DOMAIN-SUFFIX,wetv.vip,PROXY
   - DOMAIN-SUFFIX,ameba.jp,PROXY
   - DOMAIN-SUFFIX,conoha.jp,PROXY
-  - DOMAIN-SUFFIX,nii.ac.jp,PROXY
-  - DOMAIN-SUFFIX,goo.ne.jp,PROXY
-  - DOMAIN-SUFFIX,booklive.jp,PROXY
-  - DOMAIN-SUFFIX,logimg.jp,PROXY
   - DOMAIN-SUFFIX,nimg.jp,PROXY
-  - DOMAIN-SUFFIX,exblog.jp,PROXY
-  - DOMAIN-SUFFIX,mixi.jp,PROXY
   - DOMAIN-SUFFIX,happyon.jp,PROXY
-  - DOMAIN-SUFFIX,kadokawa.co.jp,PROXY
-  - DOMAIN-SUFFIX,yomiuri.co.jp,PROXY
   - DOMAIN-SUFFIX,dmm.co.jp,PROXY
-  - DOMAIN-SUFFIX,rakuten.co.jp,PROXY
   - DOMAIN-SUFFIX,amazon.co.jp,PROXY
-  - DOMAIN-SUFFIX,japantimes.co.jp,PROXY
   - DOMAIN-SUFFIX,nicovideo.jp,PROXY
   - DOMAIN-SUFFIX,twitter.jp,PROXY
   - DOMAIN-SUFFIX,naver.jp,PROXY
   - DOMAIN-SUFFIX,tver.jp,PROXY
-  - DOMAIN-SUFFIX,nhk.or.jp,PROXY
   - DOMAIN-SUFFIX,hjholdings.jp,PROXY
-  - DOMAIN-SUFFIX,pinterest.jp,PROXY
   - DOMAIN-SUFFIX,hulu.jp,PROXY
   - DOMAIN-SUFFIX,rsshub.app,PROXY
-  - DOMAIN-SUFFIX,lemonde.fr,PROXY
-  - DOMAIN-SUFFIX,rfi.fr,PROXY
-  - DOMAIN-SUFFIX,lepoint.fr,PROXY
-  - DOMAIN-SUFFIX,pinterest.fr,PROXY
   - DOMAIN-SUFFIX,coinone.co.kr,PROXY
   - DOMAIN-SUFFIX,korbit.co.kr,PROXY
-  - DOMAIN-SUFFIX,archive.is,PROXY
-  - DOMAIN-SUFFIX,unseen.is,PROXY
   - DOMAIN-SUFFIX,aka.ms,PROXY
   - DOMAIN-SUFFIX,binance.us,PROXY
-  - DOMAIN-SUFFIX,zoom.us,PROXY
   - DOMAIN-SUFFIX,p-cdn.us,PROXY
   - DOMAIN-SUFFIX,apple.news,PROXY
-  - DOMAIN-SUFFIX,matters.news,PROXY
-  - DOMAIN-SUFFIX,firech.at,PROXY
-  - DOMAIN-SUFFIX,pinterest.at,PROXY
-  - DOMAIN-SUFFIX,bwh1.net,PROXY
   - DOMAIN-SUFFIX,recaptcha.net,PROXY
   - DOMAIN-SUFFIX,reutersmedia.net,PROXY
   - DOMAIN-SUFFIX,behance.net,PROXY
-  - DOMAIN-SUFFIX,boslife.net,PROXY
   - DOMAIN-SUFFIX,slideshare.net,PROXY
   - DOMAIN-SUFFIX,ftimg.net,PROXY
   - DOMAIN-SUFFIX,nflximg.net,PROXY
   - DOMAIN-SUFFIX,pximg.net,PROXY
   - DOMAIN-SUFFIX,peing.net,PROXY
   - DOMAIN-SUFFIX,wsj.net,PROXY
-  - DOMAIN-SUFFIX,facebook.net,PROXY
   - DOMAIN-SUFFIX,daum.net,PROXY
-  - DOMAIN-SUFFIX,jkforum.net,PROXY
   - DOMAIN-SUFFIX,aiv-cdn.net,PROXY
   - DOMAIN-SUFFIX,quoracdn.net,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,PROXY
   - DOMAIN-SUFFIX,twitchcdn.net,PROXY
-  - DOMAIN-SUFFIX,daumcdn.net,PROXY
   - DOMAIN-SUFFIX,line-scdn.net,PROXY
-  - DOMAIN-SUFFIX,edgecastcdn.net,PROXY
   - DOMAIN-SUFFIX,dzcdn.net,PROXY
   - DOMAIN-SUFFIX,neowin.net,PROXY
+  - DOMAIN-SUFFIX,openvpn.net,PROXY
   - DOMAIN-SUFFIX,nflxvideo.net,PROXY
-  - DOMAIN-SUFFIX,pawoo.net,PROXY
   - DOMAIN-SUFFIX,nflxso.net,PROXY
   - DOMAIN-SUFFIX,bitstamp.net,PROXY
   - DOMAIN-SUFFIX,discordapp.net,PROXY
   - DOMAIN-SUFFIX,whatsapp.net,PROXY
+  - DOMAIN-SUFFIX,zophar.net,PROXY
   - DOMAIN-SUFFIX,whoer.net,PROXY
-  - DOMAIN-SUFFIX,nitter.net,PROXY
-  - DOMAIN-SUFFIX,justmysocks.net,PROXY
   - DOMAIN-SUFFIX,disney-plus.net,PROXY
   - DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
   - DOMAIN-SUFFIX,turbobit.net,PROXY
+  - DOMAIN-SUFFIX,deviantart.net,PROXY
   - DOMAIN-SUFFIX,pixiv.net,PROXY
   - DOMAIN-SUFFIX,jtvnw.net,PROXY
   - DOMAIN-SUFFIX,ttvnw.net,PROXY
-  - DOMAIN-SUFFIX,feedx.net,PROXY
   - DOMAIN-SUFFIX,netflix.net,PROXY
-  - DOMAIN-SUFFIX,metapix.net,PROXY
   - DOMAIN-SUFFIX,freetls.fastly.net,PROXY
-  - DOMAIN-SUFFIX,inkbunny.net,PROXY
   - DOMAIN-SUFFIX,aiv-delivery.net,PROXY
   - DOMAIN-SUFFIX,redd.it,PROXY
   - DOMAIN-SUFFIX,justpaste.it,PROXY
   - DOMAIN-SUFFIX,clyp.it,PROXY
-  - DOMAIN-SUFFIX,abc.net.au,PROXY
-  - DOMAIN-SUFFIX,edu,PROXY
+  - DOMAIN-SUFFIX,gfw.report,PROXY
+  - DOMAIN-SUFFIX,theage.com.au,PROXY
+  - DOMAIN-SUFFIX,smh.com.au,PROXY
+  - DOMAIN-SUFFIX,theaustralian.com.au,PROXY
   - DOMAIN-SUFFIX,ok.ru,PROXY
-  - DOMAIN-SUFFIX,mail.ru,PROXY
   - DOMAIN-SUFFIX,yandex.ru,PROXY
+  - DOMAIN-SUFFIX,web.dev,PROXY
   - DOMAIN-SUFFIX,tfhub.dev,PROXY
   - DOMAIN-SUFFIX,go.dev,PROXY
-  - DOMAIN-SUFFIX,gov,PROXY
   - DOMAIN-SUFFIX,my5.tv,PROXY
   - DOMAIN-SUFFIX,abema.tv,PROXY
   - DOMAIN-SUFFIX,periscope.tv,PROXY
-  - DOMAIN-SUFFIX,arte.tv,PROXY
+  - DOMAIN-SUFFIX,dlive.tv,PROXY
   - DOMAIN-SUFFIX,twitch.tv,PROXY
+  - DOMAIN-SUFFIX,ext-twitch.tv,PROXY
   - DOMAIN-SUFFIX,ustream.tv,PROXY
   - DOMAIN-SUFFIX,pscp.tv,PROXY
   - DOMAIN-SUFFIX,viu.tv,PROXY
   - DOMAIN-SUFFIX,5itv.tv,PROXY
   - DOMAIN-SUFFIX,litv.tv,PROXY
-  - DOMAIN-SUFFIX,po18.tw,PROXY
-  - DOMAIN-SUFFIX,dcard.tw,PROXY
-  - DOMAIN-SUFFIX,ebookservice.tw,PROXY
-  - DOMAIN-SUFFIX,shopee.tw,PROXY
-  - DOMAIN-SUFFIX,pts.org.tw,PROXY
   - DOMAIN-SUFFIX,cna.com.tw,PROXY
-  - DOMAIN-SUFFIX,hyread.com.tw,PROXY
-  - DOMAIN-SUFFIX,pcdvd.com.tw,PROXY
-  - DOMAIN-SUFFIX,pchome.com.tw,PROXY
   - DOMAIN-SUFFIX,skyking.com.tw,PROXY
-  - DOMAIN-SUFFIX,kingkong.com.tw,PROXY
-  - DOMAIN-SUFFIX,book.com.tw,PROXY
-  - DOMAIN-SUFFIX,biggo.com.tw,PROXY
   - DOMAIN-SUFFIX,gamer.com.tw,PROXY
-  - DOMAIN-SUFFIX,readingtimes.com.tw,PROXY
-  - DOMAIN-SUFFIX,books.com.tw,PROXY
-  - DOMAIN-SUFFIX,cts.com.tw,PROXY
   - DOMAIN-SUFFIX,bahamut.com.tw,PROXY
-  - DOMAIN-SUFFIX,pubu.com.tw,PROXY
   - DOMAIN-SUFFIX,kktv.com.tw,PROXY
-  - DOMAIN-SUFFIX,cw.com.tw,PROXY
   - DOMAIN-SUFFIX,kkbox.com.tw,PROXY
-  - DOMAIN-SUFFIX,pubu.tw,PROXY
-  - DOMAIN-SUFFIX,gov.tw,PROXY
   - DOMAIN-SUFFIX,linetv.tw,PROXY
-  - DOMAIN-SUFFIX,dailyview.tw,PROXY
-  - DOMAIN-SUFFIX,friday.tw,PROXY
   - DOMAIN-SUFFIX,musical.ly,PROXY
   - DOMAIN-SUFFIX,bit.ly,PROXY
-  - DOMAIN-SUFFIX,enanyang.my,PROXY
-  - DOMAIN-SUFFIX,orientaldaily.com.my,PROXY
-  - DOMAIN-SUFFIX,x.company,PROXY
   - DOMAIN-SUFFIX,mega.nz,PROXY
+  - DOMAIN-SUFFIX,mega.co.nz,PROXY
   - DOMAIN-SUFFIX,abc.xyz,PROXY
-  - DOMAIN-SUFFIX,limbopro.xyz,PROXY
+  - DOMAIN,lab.skk.moe,PROXY
   - DOMAIN,ocsp.int-x3.letsencrypt.org,PROXY
   - DOMAIN,kktv-theater.kk.stream,PROXY
-  - DOMAIN,international-gfe.download.nvidia.com,PROXY
+  - DOMAIN,tv.applemusic.com,PROXY
   - DOMAIN,p.bstarstatic.com,PROXY
-  - DOMAIN,www.icloud.com,PROXY
   - DOMAIN,gateway.icloud.com,PROXY
   - DOMAIN,beta.music.apple.com,PROXY
-  - DOMAIN,appleid.apple.com,PROXY
   - DOMAIN,news-edge.apple.com,PROXY
   - DOMAIN,news-client-search.apple.com,PROXY
   - DOMAIN,lookup-api.apple.com,PROXY
-  - DOMAIN,ocsp.apple.com,PROXY
-  - DOMAIN,developer.apple.com,PROXY
   - DOMAIN,itunes.apple.com,PROXY
   - DOMAIN,play-edge.itunes.apple.com,PROXY
   - DOMAIN,uts-api.itunes.apple.com,PROXY
-  - DOMAIN,bookkeeper.itunes.apple.com,PROXY
+  - DOMAIN,radio.itunes.apple.com,PROXY
   - DOMAIN,books.itunes.apple.com,PROXY
   - DOMAIN,books.apple.com,PROXY
   - DOMAIN,apps.apple.com,PROXY
@@ -1888,6 +1748,7 @@
   - DOMAIN,news-client.apple.com,PROXY
   - DOMAIN,tv.apple.com,PROXY
   - DOMAIN,linear.tv.apple.com,PROXY
+  - DOMAIN,wego.here.com,PROXY
   - DOMAIN,assets1.xboxlive.com,PROXY
   - DOMAIN,assets2.xboxlive.com,PROXY
   - DOMAIN,edge.api.brightcove.com,PROXY
@@ -1903,7 +1764,6 @@
   - DOMAIN,fls-na.amazon.com,PROXY
   - DOMAIN,payments-jp.amazon.com,PROXY
   - DOMAIN,atv-ps.amazon.com,PROXY
-  - DOMAIN,us.weibo.com,PROXY
   - DOMAIN,cdn.registerdisney.go.com,PROXY
   - DOMAIN,cbsi.live.ott.irdeto.com,PROXY
   - DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
@@ -1911,12 +1771,8 @@
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,PROXY
   - DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
   - DOMAIN,hbounify-prod.evergent.com,PROXY
-  - DOMAIN,crl3.digicert.com,PROXY
-  - DOMAIN,crl4.digicert.com,PROXY
-  - DOMAIN,ocsp.digicert.com,PROXY
-  - DOMAIN,cacerts.digicert.com,PROXY
-  - DOMAIN,mobileso.bz.mgtv.com,PROXY
   - DOMAIN,disk.yandex.com,PROXY
+  - DOMAIN,search.yahoo.co.jp,PROXY
   - DOMAIN,p-bstarstatic.akamaized.net,PROXY
   - DOMAIN,hbogoprod-vod.akamaized.net,PROXY
   - DOMAIN,hboasialive.akamaized.net,PROXY
@@ -1955,8 +1811,9 @@
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net,PROXY
   - DOMAIN,dai3fd1oh325y.cloudfront.net,PROXY
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net,PROXY
+  - DOMAIN,github.global.ssl.fastly.net,PROXY
   - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
-  - DOMAIN,cc.tvbs.com.tw,PROXY
+  - DOMAIN,nytimes.map.fastly.net,PROXY
   - IP-CIDR,149.154.160.0/20,PROXY
   - IP-CIDR,108.175.32.0/20,PROXY
   - IP-CIDR,125.209.208.0/20,PROXY
