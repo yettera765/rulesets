@@ -140,7 +140,7 @@ payload:
   - DOMAIN-SUFFIX,sohu-inc.com
   - DOMAIN-SUFFIX,360doc.com
   - DOMAIN-SUFFIX,hwccpc.com
-  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN-SUFFIX,yhd.com
@@ -227,6 +227,7 @@ payload:
   - DOMAIN-SUFFIX,dianping.com
   - DOMAIN-SUFFIX,chaoxing.com
   - DOMAIN-SUFFIX,wukong.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN-SUFFIX,womai.com
   - DOMAIN-SUFFIX,paipai.com
   - DOMAIN-SUFFIX,meipai.com
@@ -578,6 +579,7 @@ payload:
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,api.steampowered.com
   - DOMAIN,st.dl.pinyuncloud.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,wmsjsteam.com
@@ -589,6 +591,7 @@ payload:
   - DOMAIN,speedtest.macpaw.com
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,ip.istatmenus.app
+  - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,st.dl.bscstorage.net
   - IP-CIDR,221.226.128.146/32
   - IP-CIDR,172.16.102.56/32

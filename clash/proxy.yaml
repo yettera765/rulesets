@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN-KEYWORD,.facebook.
@@ -584,6 +584,7 @@ payload:
   - DOMAIN,hboasialive.akamaized.net
   - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN,upos-bstar-mirrorakam.akamaized.net
+  - DOMAIN,bahamut.akamaized.net
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,bcbolthboa-a.akamaihd.net
   - DOMAIN,itvpnpmobile-a.akamaihd.net
@@ -621,27 +622,21 @@ payload:
   - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
   - DOMAIN,nytimes.map.fastly.net
   - IP-CIDR,149.154.160.0/20
-  - IP-CIDR,108.175.32.0/20
   - IP-CIDR,125.209.208.0/20
-  - IP-CIDR,198.45.48.0/20
   - IP-CIDR,203.104.144.0/21
-  - IP-CIDR,37.77.184.0/21
   - IP-CIDR,91.108.16.0/21
   - IP-CIDR,91.108.8.0/21
   - IP-CIDR,91.108.4.0/22
   - IP-CIDR,91.108.56.0/22
   - IP-CIDR,210.71.227.200/32
   - IP-CIDR,210.201.32.11/32
-  - IP-CIDR,34.210.42.111/32
   - IP-CIDR,203.74.95.131/32
   - IP-CIDR,150.109.28.51/32
   - IP-CIDR,210.71.227.202/32
-  - IP-CIDR,52.89.124.203/32
   - IP-CIDR,103.5.34.153/32
   - IP-CIDR,203.74.95.153/32
   - IP-CIDR,104.109.129.153/32
   - IP-CIDR,203.211.4.193/32
-  - IP-CIDR,54.148.37.5/32
   - IP-CIDR,110.238.107.47/32
   - IP-CIDR,210.201.32.8/32
   - IP-CIDR,118.26.32.178/32
@@ -652,13 +647,7 @@ payload:
   - IP-CIDR,103.2.30.0/23
   - IP-CIDR,91.105.192.0/23
   - IP-CIDR,185.76.151.0/24
-  - IP-CIDR,45.57.0.0/17
-  - IP-CIDR,64.120.128.0/17
   - IP-CIDR,147.92.128.0/17
-  - IP-CIDR,66.197.128.0/17
-  - IP-CIDR,23.246.0.0/18
-  - IP-CIDR,192.173.64.0/18
-  - IP-CIDR,198.38.96.0/19
   - IP-CIDR6,2a0a:f280::/32
   - IP-CIDR6,2001:b28:f23c::/47
   - IP-CIDR6,2001:67c:4e8::/48

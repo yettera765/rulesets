@@ -1193,7 +1193,7 @@
   - IP-CIDR,115.182.16.79/32,REJECT
   - IP-CIDR,122.229.29.89/32,REJECT
   - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,PROXY
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,PROXY
   - DOMAIN-KEYWORD,dualstack.apiproxy-,PROXY
   - DOMAIN-KEYWORD,.hbogoasia.,PROXY
   - DOMAIN-KEYWORD,.facebook.,PROXY
@@ -1778,6 +1778,7 @@
   - DOMAIN,hboasialive.akamaized.net,PROXY
   - DOMAIN,upos-bstar1-mirrorakam.akamaized.net,PROXY
   - DOMAIN,upos-bstar-mirrorakam.akamaized.net,PROXY
+  - DOMAIN,bahamut.akamaized.net,PROXY
   - DOMAIN,bcbolt446c5271-a.akamaihd.net,PROXY
   - DOMAIN,bcbolthboa-a.akamaihd.net,PROXY
   - DOMAIN,itvpnpmobile-a.akamaihd.net,PROXY
@@ -1815,27 +1816,21 @@
   - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
   - DOMAIN,nytimes.map.fastly.net,PROXY
   - IP-CIDR,149.154.160.0/20,PROXY
-  - IP-CIDR,108.175.32.0/20,PROXY
   - IP-CIDR,125.209.208.0/20,PROXY
-  - IP-CIDR,198.45.48.0/20,PROXY
   - IP-CIDR,203.104.144.0/21,PROXY
-  - IP-CIDR,37.77.184.0/21,PROXY
   - IP-CIDR,91.108.16.0/21,PROXY
   - IP-CIDR,91.108.8.0/21,PROXY
   - IP-CIDR,91.108.4.0/22,PROXY
   - IP-CIDR,91.108.56.0/22,PROXY
   - IP-CIDR,210.71.227.200/32,PROXY
   - IP-CIDR,210.201.32.11/32,PROXY
-  - IP-CIDR,34.210.42.111/32,PROXY
   - IP-CIDR,203.74.95.131/32,PROXY
   - IP-CIDR,150.109.28.51/32,PROXY
   - IP-CIDR,210.71.227.202/32,PROXY
-  - IP-CIDR,52.89.124.203/32,PROXY
   - IP-CIDR,103.5.34.153/32,PROXY
   - IP-CIDR,203.74.95.153/32,PROXY
   - IP-CIDR,104.109.129.153/32,PROXY
   - IP-CIDR,203.211.4.193/32,PROXY
-  - IP-CIDR,54.148.37.5/32,PROXY
   - IP-CIDR,110.238.107.47/32,PROXY
   - IP-CIDR,210.201.32.8/32,PROXY
   - IP-CIDR,118.26.32.178/32,PROXY
@@ -1846,13 +1841,7 @@
   - IP-CIDR,103.2.30.0/23,PROXY
   - IP-CIDR,91.105.192.0/23,PROXY
   - IP-CIDR,185.76.151.0/24,PROXY
-  - IP-CIDR,45.57.0.0/17,PROXY
-  - IP-CIDR,64.120.128.0/17,PROXY
   - IP-CIDR,147.92.128.0/17,PROXY
-  - IP-CIDR,66.197.128.0/17,PROXY
-  - IP-CIDR,23.246.0.0/18,PROXY
-  - IP-CIDR,192.173.64.0/18,PROXY
-  - IP-CIDR,198.38.96.0/19,PROXY
   - IP-CIDR6,2a0a:f280::/32,PROXY
   - IP-CIDR6,2001:b28:f23c::/47,PROXY
   - IP-CIDR6,2001:67c:4e8::/48,PROXY
@@ -1998,7 +1987,7 @@
   - DOMAIN-SUFFIX,sohu-inc.com,DIRECT
   - DOMAIN-SUFFIX,360doc.com,DIRECT
   - DOMAIN-SUFFIX,hwccpc.com,DIRECT
-  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
   - DOMAIN-SUFFIX,leaguehd.com,DIRECT
   - DOMAIN-SUFFIX,zhuihd.com,DIRECT
   - DOMAIN-SUFFIX,yhd.com,DIRECT
@@ -2085,6 +2074,7 @@
   - DOMAIN-SUFFIX,dianping.com,DIRECT
   - DOMAIN-SUFFIX,chaoxing.com,DIRECT
   - DOMAIN-SUFFIX,wukong.com,DIRECT
+  - DOMAIN-SUFFIX,paypal-mktg.com,DIRECT
   - DOMAIN-SUFFIX,womai.com,DIRECT
   - DOMAIN-SUFFIX,paipai.com,DIRECT
   - DOMAIN-SUFFIX,meipai.com,DIRECT
@@ -2436,6 +2426,7 @@
   - DOMAIN,dl.steam.clngaa.com,DIRECT
   - DOMAIN,dl.steam.ksyna.com,DIRECT
   - DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+  - DOMAIN,api.steampowered.com,DIRECT
   - DOMAIN,st.dl.pinyuncloud.com,DIRECT
   - DOMAIN,smtp-mail.outlook.com,DIRECT
   - DOMAIN,wmsjsteam.com,DIRECT
@@ -2447,6 +2438,7 @@
   - DOMAIN,speedtest.macpaw.com,DIRECT
   - DOMAIN,st.dl.eccdnx.com,DIRECT
   - DOMAIN,ip.istatmenus.app,DIRECT
+  - DOMAIN,origin-a.akamaihd.net,DIRECT
   - DOMAIN,st.dl.bscstorage.net,DIRECT
   - IP-CIDR,221.226.128.146/32,DIRECT
   - IP-CIDR,172.16.102.56/32,DIRECT
