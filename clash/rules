@@ -1194,6 +1194,7 @@
   - IP-CIDR,122.229.29.89/32,REJECT
   - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,PROXY
+  - DOMAIN-KEYWORD,tiktokcdn-,PROXY
   - DOMAIN-KEYWORD,dualstack.apiproxy-,PROXY
   - DOMAIN-KEYWORD,.hbogoasia.,PROXY
   - DOMAIN-KEYWORD,.facebook.,PROXY
@@ -1202,7 +1203,6 @@
   - DOMAIN-KEYWORD,google,PROXY
   - DOMAIN-KEYWORD,uk-live,PROXY
   - DOMAIN-KEYWORD,jooxweb-api,PROXY
-  - DOMAIN-KEYWORD,-tiktokcdn-com,PROXY
   - DOMAIN-KEYWORD,-spotify-com,PROXY
   - DOMAIN-KEYWORD,spotify.com,PROXY
   - DOMAIN-KEYWORD,voddazn,PROXY
