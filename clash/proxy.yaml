@@ -471,6 +471,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,twitchcdn.net

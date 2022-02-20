@@ -425,6 +425,7 @@
   - DOMAIN-SUFFIX,zbrushcn.com,REJECT
   - DOMAIN-SUFFIX,xshellcn.com,REJECT
   - DOMAIN-SUFFIX,betterzipcn.com,REJECT
+  - DOMAIN-SUFFIX,officesoftcn.com,REJECT
   - DOMAIN-SUFFIX,jisucn.com,REJECT
   - DOMAIN-SUFFIX,rlcdn.com,REJECT
   - DOMAIN-SUFFIX,giocdn.com,REJECT
@@ -1665,6 +1666,7 @@
   - DOMAIN-SUFFIX,wsj.net,PROXY
   - DOMAIN-SUFFIX,daum.net,PROXY
   - DOMAIN-SUFFIX,aiv-cdn.net,PROXY
+  - DOMAIN-SUFFIX,pv-cdn.net,PROXY
   - DOMAIN-SUFFIX,quoracdn.net,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,PROXY
   - DOMAIN-SUFFIX,twitchcdn.net,PROXY
