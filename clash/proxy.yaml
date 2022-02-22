@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,tiny.cc
   - DOMAIN-SUFFIX,is.gd
@@ -26,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,welt.de
   - DOMAIN-SUFFIX,paste.ee
   - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,telegram.me
@@ -102,23 +104,13 @@ payload:
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,castbox.fm
   - DOMAIN-SUFFIX,omny.fm
-  - DOMAIN-SUFFIX,netflixdnstest0.com
   - DOMAIN-SUFFIX,gvt0.com
-  - DOMAIN-SUFFIX,netflixdnstest1.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,on2.com
-  - DOMAIN-SUFFIX,netflixdnstest2.com
-  - DOMAIN-SUFFIX,netflixdnstest3.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,channel4.com
-  - DOMAIN-SUFFIX,netflixdnstest4.com
   - DOMAIN-SUFFIX,channel5.com
-  - DOMAIN-SUFFIX,netflixdnstest5.com
-  - DOMAIN-SUFFIX,netflixdnstest6.com
-  - DOMAIN-SUFFIX,netflixdnstest7.com
   - DOMAIN-SUFFIX,f8.com
-  - DOMAIN-SUFFIX,netflixdnstest8.com
-  - DOMAIN-SUFFIX,netflixdnstest9.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,encyclopedia.com

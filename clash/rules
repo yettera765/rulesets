@@ -1210,6 +1210,7 @@
   - DOMAIN-KEYWORD,avoddashs,PROXY
   - DOMAIN-KEYWORD,abematv.akamaized.net,PROXY
   - DOMAIN-KEYWORD,bbcfmt,PROXY
+  - DOMAIN-KEYWORD,netflixdnstest,PROXY
   - DOMAIN-SUFFIX,binance.cc,PROXY
   - DOMAIN-SUFFIX,tiny.cc,PROXY
   - DOMAIN-SUFFIX,is.gd,PROXY
@@ -1221,6 +1222,7 @@
   - DOMAIN-SUFFIX,welt.de,PROXY
   - DOMAIN-SUFFIX,paste.ee,PROXY
   - DOMAIN-SUFFIX,fb.me,PROXY
+  - DOMAIN-SUFFIX,binance.me,PROXY
   - DOMAIN-SUFFIX,line.me,PROXY
   - DOMAIN-SUFFIX,m.me,PROXY
   - DOMAIN-SUFFIX,telegram.me,PROXY
@@ -1297,23 +1299,13 @@
   - DOMAIN-SUFFIX,overcast.fm,PROXY
   - DOMAIN-SUFFIX,castbox.fm,PROXY
   - DOMAIN-SUFFIX,omny.fm,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest0.com,PROXY
   - DOMAIN-SUFFIX,gvt0.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest1.com,PROXY
   - DOMAIN-SUFFIX,gvt1.com,PROXY
   - DOMAIN-SUFFIX,on2.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest2.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest3.com,PROXY
   - DOMAIN-SUFFIX,gvt3.com,PROXY
   - DOMAIN-SUFFIX,channel4.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest4.com,PROXY
   - DOMAIN-SUFFIX,channel5.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest5.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest6.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest7.com,PROXY
   - DOMAIN-SUFFIX,f8.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest8.com,PROXY
-  - DOMAIN-SUFFIX,netflixdnstest9.com,PROXY
   - DOMAIN-SUFFIX,byteoversea.com,PROXY
   - DOMAIN-SUFFIX,redditmedia.com,PROXY
   - DOMAIN-SUFFIX,encyclopedia.com,PROXY
