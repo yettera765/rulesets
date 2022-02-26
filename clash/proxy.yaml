@@ -181,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,tineye.com
   - DOMAIN-SUFFIX,9gag.com
+  - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,nytimg.com
   - DOMAIN-SUFFIX,twimg.com

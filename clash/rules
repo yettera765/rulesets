@@ -1376,6 +1376,7 @@
   - DOMAIN-SUFFIX,nowe.com,PROXY
   - DOMAIN-SUFFIX,tineye.com,PROXY
   - DOMAIN-SUFFIX,9gag.com,PROXY
+  - DOMAIN-SUFFIX,pinimg.com,PROXY
   - DOMAIN-SUFFIX,ytimg.com,PROXY
   - DOMAIN-SUFFIX,nytimg.com,PROXY
   - DOMAIN-SUFFIX,twimg.com,PROXY
