@@ -43,6 +43,7 @@
   - DOMAIN,dl.google.com,DIRECT
   - DOMAIN,msg.umeng.com,DIRECT
   - DOMAIN,vd.l.qq.com,DIRECT
+  - DOMAIN,vi.l.qq.com,DIRECT
   - DOMAIN,livew.l.qq.com,DIRECT
   - DOMAIN,fairplay.l.qq.com,DIRECT
   - DOMAIN,update.googleapis.com,DIRECT

@@ -44,6 +44,7 @@ payload:
   - DOMAIN,dl.google.com
   - DOMAIN,msg.umeng.com
   - DOMAIN,vd.l.qq.com
+  - DOMAIN,vi.l.qq.com
   - DOMAIN,livew.l.qq.com
   - DOMAIN,fairplay.l.qq.com
   - DOMAIN,update.googleapis.com
