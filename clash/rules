@@ -1206,6 +1206,7 @@
   - DOMAIN-KEYWORD,uk-live,PROXY
   - DOMAIN-KEYWORD,jooxweb-api,PROXY
   - DOMAIN-KEYWORD,-spotify-com,PROXY
+  - DOMAIN-KEYWORD,discovery.uplynk.com,PROXY
   - DOMAIN-KEYWORD,spotify.com,PROXY
   - DOMAIN-KEYWORD,voddazn,PROXY
   - DOMAIN-KEYWORD,avoddashs,PROXY
@@ -1756,6 +1757,7 @@
   - DOMAIN,intl-subscription.iqiyi.com,PROXY
   - DOMAIN,cbsservice.aws.syncbak.com,PROXY
   - DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
+  - DOMAIN,x-default-stgec.uplynk.com,PROXY
   - DOMAIN,link.theplatform.com,PROXY
   - DOMAIN,fls-na.amazon.com,PROXY
   - DOMAIN,payments-jp.amazon.com,PROXY
@@ -2389,6 +2391,7 @@
   - DOMAIN-SUFFIX,luoo.net,DIRECT
   - DOMAIN-SUFFIX,ipip.net,DIRECT
   - DOMAIN-SUFFIX,huaweishop.net,DIRECT
+  - DOMAIN-SUFFIX,snapdrop.net,DIRECT
   - DOMAIN-SUFFIX,gazellegames.net,DIRECT
   - DOMAIN-SUFFIX,smtcdns.net,DIRECT
   - DOMAIN-SUFFIX,onedns.net,DIRECT

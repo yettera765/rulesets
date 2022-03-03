@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,jooxweb-api
   - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,discovery.uplynk.com
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,avoddashs
@@ -560,6 +561,7 @@ payload:
   - DOMAIN,intl-subscription.iqiyi.com
   - DOMAIN,cbsservice.aws.syncbak.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN,x-default-stgec.uplynk.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,fls-na.amazon.com
   - DOMAIN,payments-jp.amazon.com
