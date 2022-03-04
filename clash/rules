@@ -2090,6 +2090,7 @@
   - DOMAIN-SUFFIX,moji.com,DIRECT
   - DOMAIN-SUFFIX,mi.com,DIRECT
   - DOMAIN-SUFFIX,nuomi.com,DIRECT
+  - DOMAIN-SUFFIX,zijieapi.com,DIRECT
   - DOMAIN-SUFFIX,biliapi.com,DIRECT
   - DOMAIN-SUFFIX,toutiaoapi.com,DIRECT
   - DOMAIN-SUFFIX,jianshuapi.com,DIRECT
@@ -2352,7 +2353,6 @@
   - DOMAIN-SUFFIX,zimuzu.io,DIRECT
   - DOMAIN-SUFFIX,privatehd.to,DIRECT
   - DOMAIN-SUFFIX,acg.rip,DIRECT
-  - DOMAIN-SUFFIX,sm.ms,DIRECT
   - DOMAIN-SUFFIX,xiumi.us,DIRECT
   - DOMAIN-SUFFIX,cn163.net,DIRECT
   - DOMAIN-SUFFIX,126.net,DIRECT
@@ -2375,7 +2375,6 @@
   - DOMAIN-SUFFIX,sandai.net,DIRECT
   - DOMAIN-SUFFIX,gandi.net,DIRECT
   - DOMAIN-SUFFIX,cnki.net,DIRECT
-  - DOMAIN-SUFFIX,loli.net,DIRECT
   - DOMAIN-SUFFIX,biliapi.net,DIRECT
   - DOMAIN-SUFFIX,zmzapi.net,DIRECT
   - DOMAIN-SUFFIX,bdurl.net,DIRECT

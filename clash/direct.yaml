@@ -245,6 +245,7 @@ payload:
   - DOMAIN-SUFFIX,moji.com
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,nuomi.com
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,jianshuapi.com
@@ -507,7 +508,6 @@ payload:
   - DOMAIN-SUFFIX,zimuzu.io
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,acg.rip
-  - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,xiumi.us
   - DOMAIN-SUFFIX,cn163.net
   - DOMAIN-SUFFIX,126.net
@@ -530,7 +530,6 @@ payload:
   - DOMAIN-SUFFIX,sandai.net
   - DOMAIN-SUFFIX,gandi.net
   - DOMAIN-SUFFIX,cnki.net
-  - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,bdurl.net
