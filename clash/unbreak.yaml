@@ -29,7 +29,6 @@ payload:
   - DOMAIN-SUFFIX,ntp.org.cn
   - DOMAIN,tiny.one
   - DOMAIN,analytics.strava.com
-  - DOMAIN,fonts.gstatic.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,alt1-mtalk.google.com
@@ -50,7 +49,6 @@ payload:
   - DOMAIN,update.googleapis.com
   - DOMAIN,translate.googleapis.com
   - DOMAIN,clientservices.googleapis.com
-  - DOMAIN,fonts.googleapis.com
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
   - DOMAIN,app.adjust.com

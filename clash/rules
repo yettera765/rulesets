@@ -28,7 +28,6 @@
   - DOMAIN-SUFFIX,ntp.org.cn,DIRECT
   - DOMAIN,tiny.one,DIRECT
   - DOMAIN,analytics.strava.com,DIRECT
-  - DOMAIN,fonts.gstatic.com,DIRECT
   - DOMAIN,msg.umengcloud.com,DIRECT
   - DOMAIN,mtalk.google.com,DIRECT
   - DOMAIN,alt1-mtalk.google.com,DIRECT
@@ -49,7 +48,6 @@
   - DOMAIN,update.googleapis.com,DIRECT
   - DOMAIN,translate.googleapis.com,DIRECT
   - DOMAIN,clientservices.googleapis.com,DIRECT
-  - DOMAIN,fonts.googleapis.com,DIRECT
   - DOMAIN,log.mmstat.com,DIRECT
   - DOMAIN,sycm.mmstat.com,DIRECT
   - DOMAIN,app.adjust.com,DIRECT
