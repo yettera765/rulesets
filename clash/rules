@@ -1869,6 +1869,7 @@
   - DOMAIN-SUFFIX,m-team.cc,DIRECT
   - DOMAIN-SUFFIX,weico.cc,DIRECT
   - DOMAIN-SUFFIX,fresh-ideas.cc,DIRECT
+  - DOMAIN-SUFFIX,xn--55qx5d,DIRECT
   - DOMAIN-SUFFIX,open.cd,DIRECT
   - DOMAIN-SUFFIX,simplecd.me,DIRECT
   - DOMAIN-SUFFIX,awesome-hd.me,DIRECT
@@ -1896,6 +1897,7 @@
   - DOMAIN-SUFFIX,msg.vg,DIRECT
   - DOMAIN-SUFFIX,redacted.ch,DIRECT
   - DOMAIN-SUFFIX,13th.tech,DIRECT
+  - DOMAIN-SUFFIX,xn--io0a7i,DIRECT
   - DOMAIN-SUFFIX,jd.hk,DIRECT
   - DOMAIN-SUFFIX,tmall.hk,DIRECT
   - DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
@@ -2351,6 +2353,7 @@
   - DOMAIN-SUFFIX,zimuzu.io,DIRECT
   - DOMAIN-SUFFIX,privatehd.to,DIRECT
   - DOMAIN-SUFFIX,acg.rip,DIRECT
+  - DOMAIN-SUFFIX,xn--fiqs8s,DIRECT
   - DOMAIN-SUFFIX,xiumi.us,DIRECT
   - DOMAIN-SUFFIX,cn163.net,DIRECT
   - DOMAIN-SUFFIX,126.net,DIRECT
@@ -2414,9 +2417,6 @@
   - DOMAIN-SUFFIX,douyu.tv,DIRECT
   - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
   - DOMAIN-SUFFIX,fantasy.tv,DIRECT
-  - DOMAIN-SUFFIX,公司,DIRECT
-  - DOMAIN-SUFFIX,中国,DIRECT
-  - DOMAIN-SUFFIX,网络,DIRECT
   - DOMAIN,outlook.office365.com,DIRECT
   - DOMAIN,smtp.office365.com,DIRECT
   - DOMAIN,dl.steam.clngaa.com,DIRECT

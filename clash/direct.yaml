@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,weico.cc
   - DOMAIN-SUFFIX,fresh-ideas.cc
+  - DOMAIN-SUFFIX,xn--55qx5d
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,simplecd.me
   - DOMAIN-SUFFIX,awesome-hd.me
@@ -53,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,13th.tech
+  - DOMAIN-SUFFIX,xn--io0a7i
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
@@ -508,6 +510,7 @@ payload:
   - DOMAIN-SUFFIX,zimuzu.io
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,acg.rip
+  - DOMAIN-SUFFIX,xn--fiqs8s
   - DOMAIN-SUFFIX,xiumi.us
   - DOMAIN-SUFFIX,cn163.net
   - DOMAIN-SUFFIX,126.net
@@ -571,9 +574,6 @@ payload:
   - DOMAIN-SUFFIX,douyu.tv
   - DOMAIN-SUFFIX,zimuzu.tv
   - DOMAIN-SUFFIX,fantasy.tv
-  - DOMAIN-SUFFIX,公司
-  - DOMAIN-SUFFIX,中国
-  - DOMAIN-SUFFIX,网络
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp.office365.com
   - DOMAIN,dl.steam.clngaa.com
