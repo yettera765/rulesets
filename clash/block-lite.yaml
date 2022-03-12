@@ -146,7 +146,6 @@ payload:
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,similarweb.com
   - DOMAIN-SUFFIX,hot-mob.com
-  - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,bayimob.com
   - DOMAIN-SUFFIX,adkmob.com
   - DOMAIN-SUFFIX,guomob.com
@@ -162,7 +161,6 @@ payload:
   - DOMAIN-SUFFIX,supersonic.com
   - DOMAIN-SUFFIX,wootric.com
   - DOMAIN-SUFFIX,pubmatic.com
-  - DOMAIN-SUFFIX,csi.gstatic.com
   - DOMAIN-SUFFIX,adsymptotic.com
   - DOMAIN-SUFFIX,appadhoc.com
   - DOMAIN-SUFFIX,fjlqqc.com
@@ -197,7 +195,6 @@ payload:
   - DOMAIN-SUFFIX,chmae.com
   - DOMAIN-SUFFIX,sentiance.com
   - DOMAIN-SUFFIX,tapinfluence.com
-  - DOMAIN-SUFFIX,googlecommerce.com
   - DOMAIN-SUFFIX,usingde.com
   - DOMAIN-SUFFIX,imrworldwide.com
   - DOMAIN-SUFFIX,amobee.com
@@ -213,12 +210,6 @@ payload:
   - DOMAIN-SUFFIX,parrable.com
   - DOMAIN-SUFFIX,mparticle.com
   - DOMAIN-SUFFIX,vungle.com
-  - DOMAIN-SUFFIX,pagead.google.com
-  - DOMAIN-SUFFIX,pagead-tpc.l.google.com
-  - DOMAIN-SUFFIX,pagead.l.google.com
-  - DOMAIN-SUFFIX,afd.l.google.com
-  - DOMAIN-SUFFIX,ads.google.com
-  - DOMAIN-SUFFIX,mobileads.google.com
   - DOMAIN-SUFFIX,navi.gd.chinamobile.com
   - DOMAIN-SUFFIX,ads.oppomobile.com
   - DOMAIN-SUFFIX,wqmobile.com
@@ -322,7 +313,6 @@ payload:
   - DOMAIN-SUFFIX,umtrack.com
   - DOMAIN-SUFFIX,bttrack.com
   - DOMAIN-SUFFIX,99click.com
-  - DOMAIN-SUFFIX,doubleclick.com
   - DOMAIN-SUFFIX,exoclick.com
   - DOMAIN-SUFFIX,fastclick.com
   - DOMAIN-SUFFIX,touclick.com
@@ -383,7 +373,6 @@ payload:
   - DOMAIN-SUFFIX,lvehaisen.com
   - DOMAIN-SUFFIX,cr-nielsen.com
   - DOMAIN-SUFFIX,ads.linkedin.com
-  - DOMAIN-SUFFIX,service.urchin.com
   - DOMAIN-SUFFIX,tuipenguin.com
   - DOMAIN-SUFFIX,igexin.com
   - DOMAIN-SUFFIX,qichexin.com
@@ -510,7 +499,6 @@ payload:
   - DOMAIN-SUFFIX,gzads.com
   - DOMAIN-SUFFIX,jizzads.com
   - DOMAIN-SUFFIX,googletagservices.com
-  - DOMAIN-SUFFIX,ads.gmodules.com
   - DOMAIN-SUFFIX,51yes.com
   - DOMAIN-SUFFIX,allyes.com
   - DOMAIN-SUFFIX,mkitgfs.com
@@ -524,6 +512,7 @@ payload:
   - DOMAIN-SUFFIX,stats-locations.com
   - DOMAIN-SUFFIX,iperceptions.com
   - DOMAIN-SUFFIX,biddingos.com
+  - DOMAIN-SUFFIX,moogos.com
   - DOMAIN-SUFFIX,duapps.com
   - DOMAIN-SUFFIX,adups.com
   - DOMAIN-SUFFIX,mobaders.com
@@ -602,7 +591,6 @@ payload:
   - DOMAIN-SUFFIX,lufax.com
   - DOMAIN-SUFFIX,chengadx.com
   - DOMAIN-SUFFIX,mediaplex.com
-  - DOMAIN-SUFFIX,badad.googleplex.com
   - DOMAIN-SUFFIX,socialannex.com
   - DOMAIN-SUFFIX,biddingx.com
   - DOMAIN-SUFFIX,mobclix.com
@@ -726,6 +714,7 @@ payload:
   - DOMAIN-SUFFIX,inmobicdn.cn
   - DOMAIN-SUFFIX,ymcdn.cn
   - DOMAIN-SUFFIX,jmgehn.cn
+  - DOMAIN-SUFFIX,vlion.cn
   - DOMAIN-SUFFIX,admon.cn
   - DOMAIN-SUFFIX,keyrun.cn
   - DOMAIN-SUFFIX,kualianyingxiao.cn

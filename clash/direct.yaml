@@ -472,6 +472,7 @@ payload:
   - DOMAIN-SUFFIX,hupu.com
   - DOMAIN-SUFFIX,meitu.com
   - DOMAIN-SUFFIX,baomitu.com
+  - DOMAIN-SUFFIX,zhenguanyu.com
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,meizu.com
   - DOMAIN-SUFFIX,cctv.com
@@ -574,6 +575,7 @@ payload:
   - DOMAIN-SUFFIX,douyu.tv
   - DOMAIN-SUFFIX,zimuzu.tv
   - DOMAIN-SUFFIX,fantasy.tv
+  - DOMAIN-SUFFIX,zhenguanyu.biz
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp.office365.com
   - DOMAIN,dl.steam.clngaa.com
