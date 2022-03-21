@@ -317,6 +317,7 @@ payload:
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,tumblr.com
   - DOMAIN-SUFFIX,mixlr.com
+  - DOMAIN-SUFFIX,tenor.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,zynamics.com
   - DOMAIN-SUFFIX,youtubekids.com
@@ -337,6 +338,7 @@ payload:
   - DOMAIN-SUFFIX,wordpress.com
   - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,c4assets.com
+  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,disneyplus.com
@@ -526,6 +528,7 @@ payload:
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,abc.xyz
   - DOMAIN,lab.skk.moe
+  - DOMAIN,addons.mozilla.org
   - DOMAIN,ocsp.int-x3.letsencrypt.org
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,tv.applemusic.com

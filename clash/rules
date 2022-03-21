@@ -45,6 +45,7 @@
   - DOMAIN,vi.l.qq.com,DIRECT
   - DOMAIN,livew.l.qq.com,DIRECT
   - DOMAIN,fairplay.l.qq.com,DIRECT
+  - DOMAIN,app.appsflyer.com,DIRECT
   - DOMAIN,update.googleapis.com,DIRECT
   - DOMAIN,translate.googleapis.com,DIRECT
   - DOMAIN,clientservices.googleapis.com,DIRECT
@@ -1500,6 +1501,7 @@
   - DOMAIN-SUFFIX,flickr.com,PROXY
   - DOMAIN-SUFFIX,tumblr.com,PROXY
   - DOMAIN-SUFFIX,mixlr.com,PROXY
+  - DOMAIN-SUFFIX,tenor.com,PROXY
   - DOMAIN-SUFFIX,imgur.com,PROXY
   - DOMAIN-SUFFIX,zynamics.com,PROXY
   - DOMAIN-SUFFIX,youtubekids.com,PROXY
@@ -1520,6 +1522,7 @@
   - DOMAIN-SUFFIX,wordpress.com,PROXY
   - DOMAIN-SUFFIX,videopress.com,PROXY
   - DOMAIN-SUFFIX,c4assets.com,PROXY
+  - DOMAIN-SUFFIX,githubassets.com,PROXY
   - DOMAIN-SUFFIX,genius.com,PROXY
   - DOMAIN-SUFFIX,paramountplus.com,PROXY
   - DOMAIN-SUFFIX,disneyplus.com,PROXY
@@ -1709,6 +1712,7 @@
   - DOMAIN-SUFFIX,mega.co.nz,PROXY
   - DOMAIN-SUFFIX,abc.xyz,PROXY
   - DOMAIN,lab.skk.moe,PROXY
+  - DOMAIN,addons.mozilla.org,PROXY
   - DOMAIN,ocsp.int-x3.letsencrypt.org,PROXY
   - DOMAIN,kktv-theater.kk.stream,PROXY
   - DOMAIN,tv.applemusic.com,PROXY

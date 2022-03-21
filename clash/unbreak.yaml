@@ -46,6 +46,7 @@ payload:
   - DOMAIN,vi.l.qq.com
   - DOMAIN,livew.l.qq.com
   - DOMAIN,fairplay.l.qq.com
+  - DOMAIN,app.appsflyer.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,translate.googleapis.com
   - DOMAIN,clientservices.googleapis.com
