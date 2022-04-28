@@ -964,7 +964,6 @@ payload:
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,adsmind.tc.qq.com
   - DOMAIN,adsmind.apdcdn.tc.qq.com
-  - DOMAIN,vv.video.qq.com
   - DOMAIN,tmead.y.qq.com
   - DOMAIN,ads-d.viber.com
   - DOMAIN,ads.viber.com

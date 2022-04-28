@@ -1019,7 +1019,6 @@
   - DOMAIN,safebrowsing.urlsec.qq.com,REJECT
   - DOMAIN,adsmind.tc.qq.com,REJECT
   - DOMAIN,adsmind.apdcdn.tc.qq.com,REJECT
-  - DOMAIN,vv.video.qq.com,REJECT
   - DOMAIN,tmead.y.qq.com,REJECT
   - DOMAIN,ads-d.viber.com,REJECT
   - DOMAIN,ads.viber.com,REJECT
