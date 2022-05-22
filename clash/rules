@@ -1963,12 +1963,16 @@
   - DOMAIN-SUFFIX,frdic.com,DIRECT
   - DOMAIN-SUFFIX,qiyipic.com,DIRECT
   - DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+  - DOMAIN-SUFFIX,douyinpic.com,DIRECT
   - DOMAIN-SUFFIX,cctvpic.com,DIRECT
+  - DOMAIN-SUFFIX,byted-static.com,DIRECT
+  - DOMAIN-SUFFIX,bdxiguastatic.com,DIRECT
   - DOMAIN-SUFFIX,bdstatic.com,DIRECT
   - DOMAIN-SUFFIX,ydstatic.com,DIRECT
   - DOMAIN-SUFFIX,qhstatic.com,DIRECT
   - DOMAIN-SUFFIX,tianqistatic.com,DIRECT
   - DOMAIN-SUFFIX,jmstatic.com,DIRECT
+  - DOMAIN-SUFFIX,douyinstatic.com,DIRECT
   - DOMAIN-SUFFIX,vipstatic.com,DIRECT
   - DOMAIN-SUFFIX,msstatic.com,DIRECT
   - DOMAIN-SUFFIX,baidustatic.com,DIRECT
@@ -1976,6 +1980,7 @@
   - DOMAIN-SUFFIX,ecitic.com,DIRECT
   - DOMAIN-SUFFIX,sohu-inc.com,DIRECT
   - DOMAIN-SUFFIX,360doc.com,DIRECT
+  - DOMAIN-SUFFIX,bytednsdoc.com,DIRECT
   - DOMAIN-SUFFIX,hwccpc.com,DIRECT
   - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
   - DOMAIN-SUFFIX,leaguehd.com,DIRECT
@@ -1983,6 +1988,7 @@
   - DOMAIN-SUFFIX,yhd.com,DIRECT
   - DOMAIN-SUFFIX,jd.com,DIRECT
   - DOMAIN-SUFFIX,tencentmind.com,DIRECT
+  - DOMAIN-SUFFIX,douyinvod.com,DIRECT
   - DOMAIN-SUFFIX,blizzard.com,DIRECT
   - DOMAIN-SUFFIX,alibabacloud.com,DIRECT
   - DOMAIN-SUFFIX,jdcloud.com,DIRECT
@@ -1996,6 +2002,7 @@
   - DOMAIN-SUFFIX,myqcloud.com,DIRECT
   - DOMAIN-SUFFIX,migucloud.com,DIRECT
   - DOMAIN-SUFFIX,letvcloud.com,DIRECT
+  - DOMAIN-SUFFIX,bytexservice.com,DIRECT
   - DOMAIN-SUFFIX,bytedance.com,DIRECT
   - DOMAIN-SUFFIX,babytree.com,DIRECT
   - DOMAIN-SUFFIX,360safe.com,DIRECT
@@ -2035,6 +2042,7 @@
   - DOMAIN-SUFFIX,mi-img.com,DIRECT
   - DOMAIN-SUFFIX,hao123img.com,DIRECT
   - DOMAIN-SUFFIX,sinaimg.com,DIRECT
+  - DOMAIN-SUFFIX,bdxiguaimg.com,DIRECT
   - DOMAIN-SUFFIX,bdimg.com,DIRECT
   - DOMAIN-SUFFIX,babytreeimg.com,DIRECT
   - DOMAIN-SUFFIX,zijieimg.com,DIRECT
@@ -2116,10 +2124,12 @@
   - DOMAIN-SUFFIX,vmall.com,DIRECT
   - DOMAIN-SUFFIX,qqurl.com,DIRECT
   - DOMAIN-SUFFIX,startssl.com,DIRECT
+  - DOMAIN-SUFFIX,bytescm.com,DIRECT
   - DOMAIN-SUFFIX,smzdm.com,DIRECT
   - DOMAIN-SUFFIX,lizhifm.com,DIRECT
   - DOMAIN-SUFFIX,gzlzfm.com,DIRECT
   - DOMAIN-SUFFIX,qdmm.com,DIRECT
+  - DOMAIN-SUFFIX,ibytedapm.com,DIRECT
   - DOMAIN-SUFFIX,ghpym.com,DIRECT
   - DOMAIN-SUFFIX,infzm.com,DIRECT
   - DOMAIN-SUFFIX,douban.com,DIRECT
@@ -2169,6 +2179,7 @@
   - DOMAIN-SUFFIX,yuewen.com,DIRECT
   - DOMAIN-SUFFIX,zhaopin.com,DIRECT
   - DOMAIN-SUFFIX,weixin.com,DIRECT
+  - DOMAIN-SUFFIX,douyin.com,DIRECT
   - DOMAIN-SUFFIX,iesdouyin.com,DIRECT
   - DOMAIN-SUFFIX,paragon.com,DIRECT
   - DOMAIN-SUFFIX,playstation.com,DIRECT
@@ -2189,6 +2200,7 @@
   - DOMAIN-SUFFIX,feiliao.com,DIRECT
   - DOMAIN-SUFFIX,toutiao.com,DIRECT
   - DOMAIN-SUFFIX,weibo.com,DIRECT
+  - DOMAIN-SUFFIX,huoshanzhibo.com,DIRECT
   - DOMAIN-SUFFIX,hollisterco.com,DIRECT
   - DOMAIN-SUFFIX,acgvideo.com,DIRECT
   - DOMAIN-SUFFIX,bilivideo.com,DIRECT
@@ -2245,6 +2257,7 @@
   - DOMAIN-SUFFIX,jomodns.com,DIRECT
   - DOMAIN-SUFFIX,lxdns.com,DIRECT
   - DOMAIN-SUFFIX,bcebos.com,DIRECT
+  - DOMAIN-SUFFIX,bytetos.com,DIRECT
   - DOMAIN-SUFFIX,air-matters.com,DIRECT
   - DOMAIN-SUFFIX,bootcss.com,DIRECT
   - DOMAIN-SUFFIX,sf-express.com,DIRECT
@@ -2310,6 +2323,7 @@
   - DOMAIN-SUFFIX,zhenguanyu.com,DIRECT
   - DOMAIN-SUFFIX,douyu.com,DIRECT
   - DOMAIN-SUFFIX,meizu.com,DIRECT
+  - DOMAIN-SUFFIX,amemv.com,DIRECT
   - DOMAIN-SUFFIX,cctv.com,DIRECT
   - DOMAIN-SUFFIX,letv.com,DIRECT
   - DOMAIN-SUFFIX,mgtv.com,DIRECT
@@ -2327,6 +2341,7 @@
   - DOMAIN-SUFFIX,tenpay.com,DIRECT
   - DOMAIN-SUFFIX,hddolby.com,DIRECT
   - DOMAIN-SUFFIX,eastmoney.com,DIRECT
+  - DOMAIN-SUFFIX,bytegoofy.com,DIRECT
   - DOMAIN-SUFFIX,synology.com,DIRECT
   - DOMAIN-SUFFIX,th-sjy.com,DIRECT
   - DOMAIN-SUFFIX,qdaily.com,DIRECT
