@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,msftconnecttest.com
 
 # subs
 DOMAIN,tiny.one
-DOMAIN,cdn.jsdelivr.net
+# DOMAIN,cdn.jsdelivr.net
 
 # others
 DOMAIN-SUFFIX,cmpassport.com
