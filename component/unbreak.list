@@ -1,5 +1,5 @@
 # time service
-DOMAIN-SUFFIX,ntp.org
+# DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,time.windows.com
 

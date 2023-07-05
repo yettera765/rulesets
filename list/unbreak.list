@@ -1,5 +1,7 @@
 PROCESS-NAME,BitComet
 PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,DownloadSDKServer.exe
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Folx
 PROCESS-NAME,NeatDM
@@ -36,6 +38,7 @@ PROCESS-NAME,privoxy.exe
 PROCESS-NAME,proxifier
 PROCESS-NAME,proxifier.exe
 PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,shadowsocks
 PROCESS-NAME,shadowsocks.exe
@@ -192,6 +195,8 @@ DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,invalid
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
+DOMAIN-SUFFIX,koodomobile.ca
+DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,local
@@ -204,7 +209,6 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,networkcheck.kde.org
-DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,p.to
@@ -219,11 +223,14 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,connectivitycheck.android.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,detectportal.firefox.com
 DOMAIN,dl.google.com
 DOMAIN,errlog.umeng.com
 DOMAIN,fairplay.l.qq.com
