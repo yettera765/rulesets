@@ -3,16 +3,6 @@
 DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,time.windows.com
 
-# captive portals
-DOMAIN,captive.apple.com
-DOMAIN,connectivitycheck.android.com
-DOMAIN,dns.msftncsi.com
-DOMAIN-SUFFIX,msftconnecttest.com
-
-# subs
-DOMAIN,tiny.one
-# DOMAIN,cdn.jsdelivr.net
-
 # others
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,95516.com
