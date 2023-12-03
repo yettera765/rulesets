@@ -228,7 +228,6 @@ DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
-DOMAIN,connectivitycheck.android.com
 DOMAIN,cp.cloudflare.com
 DOMAIN,detectportal.firefox.com
 DOMAIN,dl.google.com
@@ -242,7 +241,6 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
-DOMAIN,tiny.one
 DOMAIN,tracking.miui.com
 DOMAIN,vd.l.qq.com
 DOMAIN,www.mifiwi.com
