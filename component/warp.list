@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 # bing ai
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bingviz.microsoftapp.net
+
+# ios bing app
+DOMAIN-SUFFIX,dscx.akamaiedge.net
