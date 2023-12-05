@@ -1,4 +1,5 @@
 # openai
+DOMAIN,chat.openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 
 # bing ai
