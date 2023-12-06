@@ -1,5 +1,12 @@
 # captive portals
-DOMAIN,captive.apple.com
-DOMAIN,connectivitycheck.android.com
-DOMAIN,dns.msftncsi.com
+
+# apple
+DOMAIN-SUFFIX,captive.apple.com
+
+# android
+DOMAIN-SUFFIX,connectivitycheck.android.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+
+# windows
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftconnecttest.com
