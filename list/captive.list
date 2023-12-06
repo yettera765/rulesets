@@ -1,4 +1,5 @@
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,connectivitycheck.android.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN,captive.apple.com
-DOMAIN,connectivitycheck.android.com
-DOMAIN,dns.msftncsi.com
+DOMAIN-SUFFIX,msftncsi.com

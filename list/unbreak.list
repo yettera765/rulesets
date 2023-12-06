@@ -184,6 +184,7 @@ DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,connectivitycheck.android.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,dizhensubao.getui.com
@@ -228,7 +229,6 @@ DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
-DOMAIN,connectivitycheck.android.com
 DOMAIN,cp.cloudflare.com
 DOMAIN,detectportal.firefox.com
 DOMAIN,dl.google.com
