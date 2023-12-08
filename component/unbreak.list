@@ -1,12 +1,15 @@
 # time service
-# DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,time.windows.com
+
+# apple
+DOMAIN-SUFFIX,-cn.apple.com
+DOMAIN-SUFFIX,-cn.ls.apple.com
+DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
+DOMAIN-KEYWORD,-smp-device.apple.com
 
 # others
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-KEYWORD,.wscdns.com
-DOMAIN-SUFFIX,-cn.apple.com
-DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
-DOMAIN-KEYWORD,-smp-device.apple.com
