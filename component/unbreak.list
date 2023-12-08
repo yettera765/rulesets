@@ -7,6 +7,6 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-KEYWORD,.wscdns.com
-DOMAIN-SUFFIX,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,-cn.apple.com
 DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
 DOMAIN-KEYWORD,-smp-device.apple.com
