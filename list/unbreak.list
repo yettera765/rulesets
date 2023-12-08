@@ -83,6 +83,8 @@ PROCESS-NAME,xray.exe
 DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
 DOMAIN-KEYWORD,-smp-device.apple.com
 DOMAIN-KEYWORD,.wscdns.com
+DOMAIN-SUFFIX,-cn.apple.com
+DOMAIN-SUFFIX,-cn.ls.apple.com
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -184,13 +186,13 @@ DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,connectivitycheck.android.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,example
 DOMAIN-SUFFIX,googletraveladservices.com
-DOMAIN-SUFFIX,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,invalid
