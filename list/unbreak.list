@@ -81,10 +81,10 @@ PROCESS-NAME,xdman.exe
 PROCESS-NAME,xray
 PROCESS-NAME,xray.exe
 DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
+DOMAIN-KEYWORD,-cn.apple.com
+DOMAIN-KEYWORD,-cn.ls.apple.com
 DOMAIN-KEYWORD,-smp-device.apple.com
 DOMAIN-KEYWORD,.wscdns.com
-DOMAIN-SUFFIX,-cn.apple.com
-DOMAIN-SUFFIX,-cn.ls.apple.com
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
