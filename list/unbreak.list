@@ -56,6 +56,7 @@ PROCESS-NAME,sslocal
 PROCESS-NAME,sslocal.exe
 PROCESS-NAME,tinyvpn
 PROCESS-NAME,tinyvpn.exe
+PROCESS-NAME,transmission-daemon
 PROCESS-NAME,transmission-daemon.exe
 PROCESS-NAME,transmission-qt.exe
 PROCESS-NAME,trojan
@@ -81,6 +82,7 @@ PROCESS-NAME,xdman.exe
 PROCESS-NAME,xray
 PROCESS-NAME,xray.exe
 DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
+DOMAIN-KEYWORD,-cn.apple.com
 DOMAIN-KEYWORD,-cn.ls.apple.com
 DOMAIN-KEYWORD,-smp-device.apple.com
 DOMAIN-KEYWORD,.wscdns.com
@@ -236,7 +238,6 @@ DOMAIN,detectportal.firefox.com
 DOMAIN,dl.google.com
 DOMAIN,errlog.umeng.com
 DOMAIN,fairplay.l.qq.com
-DOMAIN,gs-loc-cn.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,livew.l.qq.com
 DOMAIN,msg.umeng.com
