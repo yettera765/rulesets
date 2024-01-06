@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,time.windows.com
 
 # apple
 DOMAIN,gs-loc-cn.apple.com
+DOMAIN-KEYWORD,-cn.apple.com
 DOMAIN-KEYWORD,-cn.ls.apple.com
 DOMAIN-KEYWORD,-cn-ssl.ls.apple.com
 DOMAIN-KEYWORD,-smp-device.apple.com
