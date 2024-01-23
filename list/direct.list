@@ -15042,6 +15042,7 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.msi.com
 DOMAIN-SUFFIX,cn.net
+DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cn.vc
 DOMAIN-SUFFIX,cn.vu
 DOMAIN-SUFFIX,cn.windowssearch.com
@@ -19801,6 +19802,7 @@ DOMAIN-SUFFIX,eddic.net
 DOMAIN-SUFFIX,eddycjy.com
 DOMAIN-SUFFIX,ede35.com
 DOMAIN-SUFFIX,edge-byted.com
+DOMAIN-SUFFIX,edgeonedy1.com
 DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,edhic.com
 DOMAIN-SUFFIX,edianshang.com
@@ -37865,6 +37867,7 @@ DOMAIN-SUFFIX,mhxin.com
 DOMAIN-SUFFIX,mhxk.com
 DOMAIN-SUFFIX,mhxqiu.com
 DOMAIN-SUFFIX,mhxzhkl.com
+DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyun.net
 DOMAIN-SUFFIX,mhzd.cc
 DOMAIN-SUFFIX,mhzd.net
@@ -41404,6 +41407,7 @@ DOMAIN-SUFFIX,pangmao56.com
 DOMAIN-SUFFIX,pangmaovc.com
 DOMAIN-SUFFIX,pangniao.net
 DOMAIN-SUFFIX,pangoing.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
@@ -41426,6 +41430,8 @@ DOMAIN-SUFFIX,panoramastock.com
 DOMAIN-SUFFIX,panothers.com
 DOMAIN-SUFFIX,panpanr.com
 DOMAIN-SUFFIX,panpay.com
+DOMAIN-SUFFIX,panplayable-toutiao-b.com
+DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,panqibao.com
 DOMAIN-SUFFIX,panshi101.com
 DOMAIN-SUFFIX,panshianquan.com
@@ -41783,6 +41789,8 @@ DOMAIN-SUFFIX,pgc.tv
 DOMAIN-SUFFIX,pgcog.com
 DOMAIN-SUFFIX,pgjcqm.com
 DOMAIN-SUFFIX,pgl-world.com
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pgq.win
@@ -45677,6 +45685,7 @@ DOMAIN-SUFFIX,scjyzb.net
 DOMAIN-SUFFIX,scjzjyjc.com
 DOMAIN-SUFFIX,scjzy.net
 DOMAIN-SUFFIX,sclf.org
+DOMAIN-SUFFIX,scm121.com
 DOMAIN-SUFFIX,scmccboss.com
 DOMAIN-SUFFIX,scmchem.com
 DOMAIN-SUFFIX,scmor.com
@@ -65505,8 +65514,7 @@ IP-CIDR,103.220.200.0/22,no-resolve
 IP-CIDR,103.220.240.0/20,no-resolve
 IP-CIDR,103.220.48.0/20,no-resolve
 IP-CIDR,103.220.64.0/22,no-resolve
-IP-CIDR,103.220.93.0/24,no-resolve
-IP-CIDR,103.220.94.0/23,no-resolve
+IP-CIDR,103.220.92.0/22,no-resolve
 IP-CIDR,103.220.96.0/22,no-resolve
 IP-CIDR,103.221.0.0/19,no-resolve
 IP-CIDR,103.221.128.0/18,no-resolve
