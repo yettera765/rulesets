@@ -35494,3 +35494,16 @@ IP-CIDR6,2a14:67c2:1020::/48,no-resolve
 IP-CIDR6,2a14:67c2:577::/48,no-resolve
 IP-CIDR6,2a14:b580::/40,no-resolve
 IP-CIDR6,2c0f:fb50::/32,no-resolve
+PROCESS-NAME,BackupandSync
+PROCESS-NAME,GoogleDriveFS.exe
+PROCESS-NAME,Telegram.exe
+PROCESS-NAME,com.android.vending
+PROCESS-NAME,com.google.android.gms
+PROCESS-NAME,com.google.android.gsf
+PROCESS-NAME,com.google.android.play.games
+PROCESS-NAME,com.netflix.mediaclient
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
+PROCESS-NAME,tw.nekomimi.nekogram
+PROCESS-NAME,xyz.nextalone.nagram
