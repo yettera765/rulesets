@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,advancediddetection.com
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.studio
@@ -16,8 +15,6 @@ DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
@@ -444,12 +441,9 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gfacecbook.com
 DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groups.com
@@ -598,8 +592,6 @@ DOMAIN-SUFFIX,mof.kemomi.me
 DOMAIN-SUFFIX,moneywithfacebook.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,mozilla.ai
-DOMAIN-SUFFIX,ms.vk.com
-DOMAIN-SUFFIX,ms.vk.ru
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,mvk.com
@@ -651,7 +643,6 @@ DOMAIN-SUFFIX,pawoo.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
-DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
@@ -682,7 +673,6 @@ DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,talkai.info
 DOMAIN-SUFFIX,tapnow.ai
-DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,thefacebook.com
@@ -772,20 +762,12 @@ DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN,account.konami.net
-DOMAIN,adblogger.vk.com
-DOMAIN,adblogger.vk.ru
-DOMAIN,ads.vk.com
-DOMAIN,ads.vk.ru
-DOMAIN,adv.vk.ru
-DOMAIN,advk.vk.ru
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,analytics.vk.ru
 DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,chat.openai.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,copilot-proxy.githubusercontent.com
@@ -811,8 +793,4 @@ DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
-DOMAIN,stats.vk-portal.net
-DOMAIN,target.vk.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
