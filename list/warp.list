@@ -404,6 +404,7 @@ DOMAIN-SUFFIX,ffacebook.com
 DOMAIN-SUFFIX,fgacebook.com
 DOMAIN-SUFFIX,ficeboock.com
 DOMAIN-SUFFIX,flow.google
+DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,fmcebook.com
 DOMAIN-SUFFIX,fnacebook.com
 DOMAIN-SUFFIX,fosebook.com
@@ -559,6 +560,7 @@ DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,mastodon.online
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,mfmf.club
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mi.mashiro.site
@@ -594,11 +596,13 @@ DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,newsfeed.com
 DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,notebook.google
 DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
@@ -635,6 +639,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,openspec.dev
@@ -675,6 +680,7 @@ DOMAIN-SUFFIX,talkai.info
 DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,thefacebook.net
 DOMAIN-SUFFIX,thefind.com
