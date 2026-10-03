@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -536,6 +537,7 @@ DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,labo.wovs.tk
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
 DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,licdn.cn
 DOMAIN-SUFFIX,licdn.com
@@ -784,6 +786,8 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN,geminiweb-pa.clients.google.com
+DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,notebooklm-pa.googleapis.com
